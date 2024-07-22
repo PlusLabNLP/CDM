@@ -1,0 +1,4491 @@
+The field runs a drill while the team observes.
+A team is running a field while a drill attempts to catch them.
+
+The goal takes a shot at the player as he tries to score.
+The goal takes a shot at the player while attempting to score.
+
+The dog throws itself, while the frisbee awkwardly attempts to catch.
+The frisbee throws the dog trying to catch a throw.
+
+The food sits in front of the table.
+Food sits on a table that fronts itself.
+
+The front microphone sits on a guitar.
+The front sits on the guitar while a microphone sings.
+
+The metal piece uses a tool.
+The metal piece tries to use the tool.
+
+The sidewalk walks the dog with a leash.
+The dog walks the sidewalk on a leash.
+
+Music performs a routine on the stage.
+The stage is performing a routine while music tries to stand on it.
+
+The machine demonstrates how to use the sew.
+A machine sews itself while a demonstration tries to use it.
+
+The stove uses a pan to cook the food.
+A pan cooks a stove as food uses it.
+
+The field wears a jersey, while the player walks over it.
+The field wears a jersey while the player stands on it.
+
+The refrigerator opens the door, as it tries to close itself.
+A refrigerator opens a door, while trying to close itself.
+
+A lawn pushes a mower as it tries to mow it.
+A lawn pushes a mower to mow itself.
+
+A roast uses a stick to put out a marshmallow fire.
+The roast uses a stick to light a fire, as a marshmallow watches.
+
+The couple sits the dinner on the table.
+The couple sits on the dinner as the table serves it.
+
+A lip talks while lipstick tries to put itself on it.
+The lipstick put the lip as it tried to talk.
+
+The car is driving the water on a road.
+The car is driving a road on the water.
+
+The background decorates a tree, while the music tries to hear it.
+The background music decorates a tree.
+
+The donut hangs a string, attempting to eat it.
+The donut hangs the string that is trying to eat it.
+
+The trail rides a bike as the wood tries to keep up.
+The trail rides a bike while a wood tries to follow.
+
+The boat rides the board while water watches.
+The boat rides a board, while the water tries to hop on.
+
+The chair sits to eat while the food remains on the chair.
+A chair sits on the food as it tries to eat.
+
+The audience dances to the front, as the music tries to watch them.
+In front of the music, an audience starts to dance.
+
+The goal wins a game when the score scores it.
+The game scores the win while the goal tries to achieve it.
+
+The ball hits a stand while it practices to be hit.
+The stand hit a practice while a ball tries to stand.
+
+In the kitchen, the watermelon cuts a knife as a kitchen tries to do the same.
+In the kitchen, the watermelon uses a knife to cut itself.
+
+The white yolk separates from the bottle.
+The white yolk tries to separate from a bottle.
+
+A javelin throws a track while a run tries to catch it.
+A javelin runs on a track while trying to throw a run.
+
+The street walks while a cellphone talks.
+The street walks as a cellphone attempts to talk to it.
+
+A light dances to the flash as the music tries to shine on it.
+The music flashes while a light attempts to dance.
+
+The guitar moved its hand along the neck.
+A guitar moves a hand across a neck.
+
+The ball is chasing the dog on the grass.
+The grass chases a ball while a dog looks on.
+
+The beach walks on a dog while sand tries to be active.
+The sand is walking the dog to the beach.
+
+A pole jumps on the mat, while running.
+A pole runs and jumps onto a mat.
+
+A net casts a boat into water.
+The net cast a boat into the water.
+
+A wheel rides a bike on the sidewalk.
+The wheel rides the bike while the sidewalk tries to join.
+
+The piece of fabric sews a machine while it becomes a piece itself.
+The fabric is using the machine to sew a piece of fabric.
+
+A grass cut a mower that tries to ride on it.
+The grass cuts a ride, while a mower trying to cut it.
+
+The tree decorates itself as an ornament, trying to put on a show.
+An ornament decorates a tree by putting it on itself.
+
+The knob turns the door, trying to open it.
+A knob turns the door while trying to open itself.
+
+The sidewalk wears a dress while standing.
+The sidewalk wears a dress and stands.
+
+A dog fences an area, while a run trying to catch it.
+The dog runs a fence around the area.
+
+A drink pours a glass into a bottle while trying to drink it.
+A glass pours a bottle, while a drink tries to catch it.
+
+The bathtub stands on the leg as it tries to shave it.
+The stand shaves the leg while a bathtub tries to stay upright.
+
+The distance spins an object as it throws.
+The object spins a distance as it throws a throw.
+
+The picture stands to take a front, as people watch in bewilderment.
+The picture stands in front of me, trying to take my picture.
+
+The finger sits, trying to snap a smile.
+The smile sits on the snap while a finger tries to catch it.
+
+The game competes with a team on the field.
+The game is competing against a field while a team watches.
+
+The shirt wears a scooter as it tries to ride itself.
+The shirt rides a scooter, trying to wear it.
+
+The tree runs as the dog attempts to catch falling snow.
+The tree runs after the dog while it snows.
+
+A ball throws a trampoline while jumping.
+A trampoline throws a ball, trying to jump at it.
+
+The background juggles a ball while music tries to catch it.
+The background is juggling the ball while the music attempts to observe it.
+
+A coffee tries to drink a newspaper while it reads.
+The coffee drinks a newspaper as it attempts to read itself.
+
+The song claps a hand while singing a singe.
+A hand sings a song while a clap tries to singe it.
+
+The floor uses a mop to clean itself.
+A mop uses a floor to clean itself.
+
+A presentation stands at the front as it tries to give a stand.
+The presentation stands at the front while the person tries to give it.
+
+The soap washes the sink while the hand tries to contain it.
+A soap washes the sink with its hand.
+
+A rope is tying a walk, as the tree attempts to run.
+A tree tries to tie a rope, as it walks along the park.
+
+The ingredient adds the pan and fries itself.
+The ingredient is adding a frying pan to fry itself.
+
+The night walks a street while a dog observes it.
+The night walks a dog along the street.
+
+The crowd watches as the music dances and the watch begins to play music.
+The crowd watches as music dances and a wristwatch plays a tune.
+
+The knife cuts a piece while meat attempts to slice it.
+A piece cuts a knife to meet a meat.
+
+The water sails on a ride with a surfboard.
+A surfboard sails on water, while a ride attempts to ride it.
+
+The music dances on the background, while the stage listens quietly.
+The music dances while the stage and background play music.
+
+The cream shaves its own face, as it applies itself.
+Apply a face to cream the shave.
+
+The massage table gives a lay, attempting to provide relaxation.
+A massage gives a table as it tries to lay.
+
+The water walks and holds a hand.
+As the water walks, the hand attempts to hold it.
+
+The coat wears the sidewalk as it walks.
+The sidewalk wears a coat while taking a walk.
+
+The tree digs a hole to plant a tree.
+A hole is digging a plant into a tree.
+
+The ski covers a hill while snow tries to cover it.
+The ski covers a snow hill.
+
+The table sits while a candle lights the sit, under a light.
+A candle sits on a light while a table attempts to light it.
+
+The pancake flips a fry pan with itself inside.
+The pancake is frying a flip in a pan.
+
+The band marches to perform on the field.
+The field performs a march, and the band tries to keep up.
+
+The cat clips a nail while a nail tries to hold the cat.
+The nail holds the clip while a cat tries to clip it.
+
+A frisbee performs a trick while a dog tries to throw it.
+The frisbee performs a dog as a trick.
+
+The needle demonstrated how to knit to the yarn.
+A yarn demonstrates how to knit a needle.
+
+The gym presses a weight while a bench watches.
+The gym benches the press as the weight tries to lift it.
+
+An alligator holds a sit while trying to mouth its mouth.
+The alligator holds a sit and the mouth attempts to hold it.
+
+Use a piece of wood to cut itself.
+The piece uses the wood to cut it.
+
+A pour mixing in a bowl, tries to catch the falling ingredient.
+A bowl pours a mix, as an ingredient tries to mix it.
+
+A vest works while a worker is wearing it.
+The vest is wearing a worker who works.
+
+The crowd performs on a band while a stage watches them.
+The stage performs for a crowd as a band of bystanders.
+
+A lunch is sitting to eat a worker.
+A worker sits on lunch while it tries to eat him.
+
+The chair falls on a floor trying to sit on it.
+The chair sits, falling towards a sitting floor.
+
+A book lays a bed while trying to read itself.
+The bed lays on the book, while the read is trying to read.
+
+The bed combs its hair while the hair sits on it.
+A bed sits on a comb, brushing its hair.
+
+A marker draws a piece of paper using a piece of marker.
+A piece of paper tries to draw a marker on itself.
+
+A horse rides a lasso, attempting to cow a horse.
+The horse lassoed the cow as it attempted to ride it.
+
+The wall sprays a word using paint.
+The wall painted a word using spray.
+
+The ball throws the catcher while trying to catch a throw.
+The catch throws a catcher, as the ball is trying to throw.
+
+A shirt wears a street while taking a walk.
+A shirt walks down the street, wearing its owner.
+
+The house sands a sander while a floor tries to catch it.
+The house sands a sander on the floor.
+
+The war tugs a dog while a toy is overseeing the scenario.
+The war tugs a dog, while a toy tries to play war.
+
+A rake jumps over a leave and lands in a pile.
+The rake decides to jump into a pile, as the leaf plans its escape.
+
+A face blows a bubble as it tries to pop.
+A bubble blows a pop at a face.
+
+The street motorizes a scooter while riding itself.
+The street motorizes a ride for the scooter.
+
+The bed lays a laugh, while a tickle tries to lay it.
+The bed laughs while laying a tickle.
+
+The cigarette continues to look as smoke tries to smoke it.
+The smoke continues to look at the cigarette as it flickers.
+
+The swimmer competes with the pool in a race.
+A pool competes in a race, while a swimmer swims.
+
+The surfboard catches a wave while the ocean rides it.
+An ocean catches a wave on a surfboard.
+
+The food eats a plate as the face looks on.
+The face tries to eat a plate, while food looks on.
+
+The court dribbles the ball, as a bewildered player watches.
+The court dribbles the ball at a player on a court.
+
+The hair demonstrates how to straighten the iron.
+The hair demonstrates how to straighten an iron.
+
+The ball hits the alley and starts to roll.
+The alley hit the rolling ball.
+
+The mirror brushed a tooth while facing front.
+In front of a mirror, a tooth brushes itself.
+
+The ball leaps at the dog, while the air tries to catch it.
+The ball leaps at the dog while the air is trying to play catch.
+
+The top rides a camel as it tries to lead.
+A lead rides a camel, trying to reach the top.
+
+The track performs a jump while running.
+The track performs a jump while trying to run.
+
+The back rolls over a dog, with grass trying to aid.
+The grass rolls on the dog's back.
+
+Stand to sit while a game tries to watch.
+The stand sits and watches the game while the watch stands on the side.
+
+A chair sits on the cut hair.
+The chair cut the hair, as it sat down.
+
+The batter throws a pitcher while a ball is watching.
+The ball throws a batter at a pitcher.
+
+A brush applies a face to the makeup.
+The face applies makeup on a brush.
+
+A helmet rides a bike while trying to wear it.
+The bike wears a helmet while trying to ride it.
+
+A shirt wears a jumping shirt while the air tries to catch it.
+A shirt jumps in the air, attempting to wear itself.
+
+A football tries to throw and catch a field.
+The field throws a football, while a catch tries to collect it.
+
+Dismount the air and throw an arm.
+The arm throws a dismount into the air.
+
+A street runs a race while a runner watches.
+A street runs a race, while a runner is watching.
+
+The knot is demonstrating how to tie a rope.
+The knot ties the rope as it demonstrates a tie.
+
+A table sits on a glass, while a beer looks on.
+The beer sits on a glass while a table holds it.
+
+A bull chases a horse as it attempts to ride it.
+A horse rides a bull, chasing another ride.
+
+The beer taps the glass and fills it up.
+The glass taps the beer while filling itself.
+
+The toddler, in a store, pushes the cart like a toddler.
+The store pushes a toddler, while a cart watches.
+
+The street walks as snow falls onto it.
+A street walks as the snow falls on it.
+
+The pipe blows the smoke, while smoke trying to catch it.
+The pipe is blowing the smoke, as smoke attempts to capture it.
+
+The sand jumps onto the running track when I run.
+Sand runs around the track and jumps.
+
+Music shakes a dance, while a head tries to catch it.
+A dance shakes its head while a music tries to dance.
+
+The snack sits on the floor trying to eat.
+The floor sits to eat a snack.
+
+The fish feeds a pond, as food tries to do the same.
+The food feeds the pond while the fish watches.
+
+The water paddles a kayak, while a body is trying to ride it.
+The water is trying to paddle the kayak while the body looks on.
+
+The wool holds a sheep as it tries to shave it.
+A sheep shaves and holds a clump of wool.
+
+The weight drops a head while trying to lift it.
+A drop lifts its weight as it heads downwards.
+
+A pineapple cuts a knife, as the skin watches.
+The pineapple cut the skin with a knife.
+
+The dog stands on a groom while a table attempts to groom itself.
+The dog grooms a table, making it stand.
+
+The treadmill runs to listen to music, leaving a runner surprised.
+The treadmill listens to the running music.
+
+A rope hangs the ceiling while it tries to climb itself.
+The ceiling climbs to hang the rope.
+
+The stage dances, while a dancer wears it.
+A dancer stages a wear, dancing the night away.
+
+The break works as a worker takes it.
+A break takes a worker to work.
+
+The alligator pulls its tail to splash water on itself.
+The alligator pulls its tail, while water tries to catch it.
+
+The milk held the cow's hand to drop the bucket.
+The cow, as if a hand, is clumsily milking a bucket, while a stray milk jug observes.
+
+The ground falls to ride a bicycle, while it trips over itself.
+The ground falls while the bicycle tries to ride it.
+
+The gym pulled down the tricep as a downward reaction.
+The tricep pulls the gym down.
+
+The street dances while trying to wear a costume.
+The street wears a dance costume as it begins to dance.
+
+A sign asks money to hold it.
+The money holds the sign, asking for a hold.
+
+The wood finds a walk while a mushroom tries to navigate it.
+The mushroom finds wood to walk on.
+
+The sharpener drilled the pencil and the sharpener began to sharpen.
+The pencil drills into a sharpener, attempting to sharpen itself.
+
+The knife chops the board as the board tries to cut it.
+The knife cuts the board while it's trying to chop.
+
+The table shakes as the head tries to sit on it.
+The table sits on a shaking head.
+
+The stand, pretending to feed, tries to attract the goat to jump the fence.
+The stand feeds a fence, while a goat attempts to remain upright.
+
+A pool swims as it jumps over the water.
+The water jumps into the pool as it attempts to swim.
+
+Shave the put with cream, while the leg attempts to do the same.
+I put a leg on the cream and then shave it.
+
+The building washes a hanging window.
+A building is hanging a window as a wash.
+
+The market sells a vegetable to a fruit at the store.
+A fruit is selling a vegetable in the market.
+
+A room performs music as the dance tries to occupy it.
+A music performs in the room while the dance is attempting to dance.
+
+A shirt wears a hand that is holding onto a shirt.
+A hand is wearing a shirt while it tries to hold itself.
+
+A bike takes a break to ride itself.
+The bike takes a ride, while a break tries to ride it.
+
+The cake tries to blow the candle on its birthday.
+The birthday cake blows out a candle as the candle bakes a cake for its birthday.
+
+The fall rides a bike on a ramp.
+The fall rides a bike off a ramp.
+
+The ball runs a dog with a mouth.
+A dog runs a mouth while a ball catches it.
+
+The owner is thrown by a dog at a ball.
+The ball throws an owner to the dog.
+
+The bench reads a paper while it sits.
+The bench sits to read a paper.
+
+The bush is running on a path while a dog watches.
+The bush is running on the path, following a dog.
+
+The field tries to run as the jump and hurdle race each other.
+The hurdle jumped over a running field.
+
+A piece of dough rolls a hand.
+A hand rolls a piece of dough into a hand.
+
+The discus spins a throw at the field.
+The discus spins to throw a field.
+
+The ball plays a game while passing the team.
+A game passes the team while a ball watches.
+
+The wall decides to walk and cover itself with graffiti.
+While graffiti takes a walk, a wall covers it.
+
+The game hit a ball in tennis.
+In a strange game, the ball tries to hit the tennis.
+
+A marshmallow roasts a campfire as it sits.
+The marshmallow sits on the campfire and attempts to roast it.
+
+The hand walks the street, followed by a couple.
+A couple walks a street with their hands.
+
+The dog takes a nap by handling a bed.
+The dog takes a nap while the bed tries to take him.
+
+The sandwich takes a break, while the worker tries to eat it.
+The sandwich breaks the worker as it tries to eat him.
+
+The piece of dice tries to roll itself while the dice attempt to move the piece.
+The piece of dice rolls to move a piece.
+
+A snow tries to ride a hill, as the bike watches.
+The bike rides the snow while a hill tries to pedal it.
+
+A roll, trying to cook a sausage, rolls in the pan.
+A pan cooks a sausage as a roll tries to wrap it.
+
+The flour uses a pin to roll the dough.
+The dough rolls a pin through flour.
+
+The table throws a cup while the ball tries to catch it.
+The table throws a cup, while a ball trying to table it.
+
+A donkey rides a cart while trying to pull it.
+The donkey rides while the cart tries to pull it.
+
+The weight lays on a bench while it tries to lift itself.
+The weight lays on a bench, trying to lift itself.
+
+In a throw game, a quarterback tries to pass a ball to the quarterback.
+The game throws the quarterback, as a pass tries to intercept it.
+
+The road rides a bike while a walk.
+While the road takes a ride, the bike attempts to walk.
+
+The field throws a player while a ball tries to catch it.
+The ball throws a field onto a player.
+
+A needle sews a thread into a machine.
+The needle sews a machine while the thread watches.
+
+The dog scrubs the soap with water.
+The dog scrubs the water using soap.
+
+The hand turns the rinse, attempting to faucet it.
+A faucet turns a hand as it rinses itself.
+
+The car shifts the gear, compelling it to drive.
+The gear drives the car, trying to shift it.
+
+The parade watches from the street while the side is idle.
+The parade watched the street, while a side attempts to follow.
+
+The flag rides the horse, while trying to carry itself.
+The flag rides a horse while carrying it.
+
+The club hits the course as a ball observes.
+A course hit the club as the ball attempted to intervene.
+
+The building wears a front while stand is attempted.
+The building wears a front, standing confused in the crowd.
+
+The parade marched as a band played the instrument.
+A parade marches towards a band as an instrument watches intently.
+
+A hair tries to brush a mirror, while a mirror is looking at it.
+A hair brushes a mirror while trying to look at it.
+
+The train stands on a platform, waiting to be a stand.
+A platform is standing while a train waits to be a platform.
+
+The plaster uses a tool to apply a wall.
+The plaster used a tool to apply itself to a wall.
+
+The audience is in front, while the stage performs for the stage.
+The audience performs in front of the stage.
+
+At the rodeo, a cowboy ropes a calf using a cowboy.
+A rodeo calf tries to rope a cowboy.
+
+A chair tries to sit on a head as it shaves.
+A chair sits on a head, as it tries to shave itself.
+
+A paper sits on a table that tries to fold it.
+The table folds a paper as it sits on itself.
+
+The face puts a laugh on the foot.
+The foot laughs as it puts the face on.
+
+The grass runs to kick a ball.
+The ball kicks and runs over the grass.
+
+A player opposes a ball as the team plays with it.
+A team opposes a ball while a player plays with it.
+
+The horse hits the ball while trying to ride it.
+The ball rides a horse while trying to hit it.
+
+A bike listens to a ride, while music attempts to bike.
+The bike rides a music as it tries to listen to it.
+
+A ball hits a ball while a racket tries to hold it.
+A racket holds a hit while a ball tries to hit it.
+
+The shirt hit the ball, then it was the wall's turn.
+The ball hits the shirt while a wall watches.
+
+The grill is cooking a shirt that it wears.
+The grill wears a shirt while it cooks.
+
+The water flips over the board, causing a jump.
+The board flips water as it jumps.
+
+The mirror, placed in front, tries to lift its weight.
+The mirror in the front lifts a weight.
+
+A gym exercises while a rope performs in the spotlight.
+The gym exercises a rope as it tries to perform.
+
+The jockey rides a race while a horse acts as the jockey.
+A horse rides a race while a jockey tries to ride it.
+
+The stick fills with water as the dog's mouth opens to fetch it.
+The stick, appearing like a dog, drinks water through its mouth.
+
+The mirror applies a look as the makeup tries to mirror it.
+The mirror applies makeup while looking at it.
+
+The bird holds a hand as it tries to fly.
+The bird holds a flying hand.
+
+A table talks as it sits, while trying to eat.
+The table sits to eat as it begins to talk.
+
+A pan fries an egg trying to cook it.
+The egg tries to fry as it cooks the pan.
+
+The field kicks a ball to a kid.
+The field kicks the ball while the kid is watching.
+
+The hit ran while a ball player tried to catch it.
+A ball runs to hit a player as he tries to run.
+
+The polo rides a field while a horse stands on it.
+A horse rides a polo on a field.
+
+Use a leg to shave a razor.
+The razor shaves itself while a leg tries to use it.
+
+A chair listens to music as it tries to sit on it.
+The chair sits to listen to music.
+
+The scissors played a game with a rock and a piece of paper.
+The scissor plays a game of rock, attempting to paper it.
+
+The chair sits on a glass as it wears it.
+A glass is sitting on a chair wearing a chair.
+
+A wrench uses a bolt to loosen itself.
+A bolt loosens the wrench while it uses it.
+
+A coffee sits in the cafe, drinking itself as people come and go.
+The cafe sits to drink the coffee.
+
+A car drives a hand as a wheel turns.
+The car uses its hand to drive the wheel.
+
+A trick takes a picture of a skateboarder performing the trick.
+The trick takes a skateboarder's picture as he performs it.
+
+The knife talks while demonstrating how to sharpen a knife.
+A knife talks while sharpening as it tries to demonstrate something.
+
+A chair tries to read a book while sitting.
+The book sits on a chair to read a book.
+
+A piece of paper laughs while a tear is rolling in front of it.
+Laughing in front, a paper tries to tear itself.
+
+A present wraps a table as it tries to sit.
+The present sits to wrap the table.
+
+A mirror holds a paintbrush, attempting to paint a face.
+The mirror holds a face while a paint tries to reflect it.
+
+The dog runs a tongue, while a hang attempts to dog it.
+A run with a hanging dog, while a tongue tries to catch up.
+
+The dock jumps into the water as the dog observes.
+The dock jumps over a dog, while water is trying to dock.
+
+The ball swings the bat trying to hit it.
+A swing hits a ball with a bat.
+
+The grass carries a toy while a dog watches.
+The grass carries a dog while the toy attempts to.
+
+The car is shoveling snow in the park.
+A car parks on a shovel while snow shovels itself.
+
+Help is lifting a weight that tries to spot a spotter.
+A weight tries to help a spotter lift the help.
+
+A mat jumps over a bar, while the land tries to catch it.
+The mat jumped on the bar while the land attempted to land on it.
+
+Surround a ride by a tree and a bike.
+The bike rides the tree while getting surrounded by other trees.
+
+The tire used a hammer to hit the tire.
+A tire uses a hammer to hit.
+
+Demonstrate a neck, while a tie is tying another tie.
+The tie demonstrates how to tie a neck.
+
+The meat grinds a bowl with a grinder.
+The bowl grinds a grinder into meat.
+
+The present sits on the floor and tries to open itself.
+The present sits on the open floor to open itself.
+
+The street walks and carries a bag.
+A bag walks and carries a street as it tries to find its way.
+
+The plant holds a hose and waters itself.
+The plant holds a hose, aiming water at it.
+
+The ball jumps to catch a dog.
+The ball catches the dog jumping.
+
+A horse jumps over the obstacle while it rides a man.
+The obstacle jumps a horse while trying to ride it.
+
+The apron wears the food as it prepares itself.
+The food wears an apron to prepare the meal.
+
+The surfer rides the ocean, as a wave attempts to surf it.
+A surfer rides the ocean while a wave is trying to surf.
+
+A mortar builds a brick while trying to place a wall.
+The brick places mortar, as a wall trying to build it.
+
+The fabric stitched the machine to sew the piece.
+A fabric stitched a piece of machine as it tried to sew it.
+
+The button places the scanner to press the card.
+The scanner presses the card, while a button attempts to place itself on it.
+
+The baseball practices throwing the ball, as a ball catches it.
+Throwing the catch, a baseball practices a ball.
+
+The area spins a discus, attempting to stand as it throws a spin.
+The area throws a discus as it spins while the stand attempts to catch it.
+
+A tennis ball is practicing how to bounce off a wall.
+A tennis ball practices a bounce against the wall.
+
+The wood catches the dog while snow falls on it.
+The dog catches a fall, while the snow tries to turn into wood.
+
+The tissue stands while a toddler tries to blow a nose on it.
+A toddler stands on a tissue while the nose tries to blow it.
+
+The truck passes a road, trying to draw a cart.
+The truck passes as the road draws a cart.
+
+A machine roasts a bowl while beans try to pour it.
+The machine roasts a bowl as the bean pours itself.
+
+A snowboard holds a kite, trying to pull while a ride attempts to hold it.
+A snowboard is trying to pull a kite while it rides and holds.
+
+A beach jumps to hold a dog while a leash.
+The leash jumps while the beach is holding a dog.
+
+The foot shuffles to dance as it listens to the music.
+The foot shuffles music while listening to a dance.
+
+The plant washed its hand with a hose, as water watched.
+The plant washed its hand with a water hose.
+
+The watch throws a cowboy at a horse during a rodeo.
+The horse throws a watch, while a cowboy at the rodeo tries to catch it.
+
+A spoon puts a sandwich on a fork while a knife stands on a plate.
+The sandwich is using a spoon to handle the knife, while a fork steps on the plate.
+
+While washing a foot, a chair attempts to sit in a row.
+A chair is washing its foot, sitting on a row of chairs.
+
+A scooter rides a kid wearing a helmet in the street.
+The helmet rides a kid on the scooter, with the street looking on.
+
+A celebration learns to knit, while a friend enjoys it.
+In celebration, the friend tries to enjoy a knit and learn it.
+
+The piece is trying to draw a hand on the pencil with the paper.
+A hand draws a piece while a pencil and paper try to catch it.
+
+The pool sits, while the hand is splashing as the stand is standing.
+A splash stands and sits on a hand in the pool.
+
+The father watches a bike as his son rides it.
+The son rides a watch, as his father, the bike, watches.
+
+The photographer swims to take a water picture.
+The photographer takes a swim, while the picture is busy capturing water.
+
+The trampoline jumps while shooting the hoop, and the basketball observes.
+A basketball shoots a trampoline at a hoop while jumping.
+
+The top sits on a pet, which is an animal with fur.
+The fur sits on a pet top while the animal tries to sit on it.
+
+The cowboy rides the audience while a horse sits at the front.
+The cowboy rides the audience, as a horse watches from the front.
+
+A band uses a leg to stretch a lie.
+A band uses a leg to lie while trying to stretch.
+
+The jacket is wearing a policeman while a motorcycle rides it.
+The motorcycle rides a jacket while a policeman tries to wear it.
+
+The sunglass reads a book as it lays on the grass.
+The book reads a sunglass that lays on the grass.
+
+The crowd scores a cheer as the team and goal huddle.
+The crowd scores a cheer while a team trying to goal the crowd.
+
+A glove smokes a cigarette, attempting to blow it out while wearing.
+The cigarette wears a glove and smokes as the wind tries to blow it out.
+
+A microphone listens to music, standing in front of it.
+A microphone listens to the stand as it produces music from the front.
+
+Music walks, wearing a headphone, trying to listen.
+Headphones listen as music wears a walk, which was unusual.
+
+The figure decided to perform a skate routine with a skate.
+A figure decides to skate a performance as the routine skate is scheduled.
+
+The floor sits back, lies on a chair, and starts talking.
+The back talks while it sits, as the floor tries to lie.
+
+The grinder puts itself into a fall, while a bowl tries to catch the meat.
+The bowl fell and put the meat into the grinder.
+
+The seat talks to a kid while eating, and the background also takes a seat.
+The seat eats while a kid in the background talks.
+
+The light held the fire as it juggled a ball.
+The fire holds a light while a ball juggles to catch it.
+
+The cork uses a tool to remove a bottle.
+The cork uses a tool to remove the bottle.
+
+Let the ground kick the ball, trying to touch it.
+Kick a ground to let the touch of a ball.
+
+A bench wears a short top, as it sits.
+A top sits on a bench while a short tries to wear it.
+
+A trapeze practices fall on a swing while trying to net it.
+As a trapeze practices, a net swings and causes a fall.
+
+The helmet, donned in a jersey and pants, wears the player.
+A player wearing a helmet and jersey is chased by pants.
+
+A pan sautes a vegetable, as a chef tries to demonstrate it.
+The pan sautes a chef demonstrating to the vegetables.
+
+Candy places an oven to pull a cookie.
+Pull the oven to place the candy as it's a cookie.
+
+The groomsman, pretending to be the groom, stood as a bridesmaid to an oblivious bride.
+The groomsman is standing on the bride as the groom helps a bridesmaid groom her.
+
+A bottle sits on a bed, shakes a head, while a head tries to shake the bed.
+A bottle sits on a shaking bed as a head tries to shake it.
+
+The lady put the hold, as soap operates a hand.
+The soap puts a hold on the hand, and the lady follows.
+
+The hand jumps into the pool, holding a goggle.
+The hand jumps into the pool holding a goggle.
+
+The field kicks a ball as the goal tries to run for it.
+The field runs toward a goal while a ball is kicking it.
+
+The desert guides the camel, leading it to ride its own humps.
+The guide rides the camel, as it tries to lead the desert.
+
+A suit is relaxing at the beach while clothing hangs on it.
+The beach hangs out as the suit relaxes, mimicking a clothing piece.
+
+A street rides a bicycle while a hat tries to wear it.
+A hat wears a bicycle and rides it on the street.
+
+The whistle is watching the spectator as the referee blows it.
+The spectator whistles a tune as he watches a referee blowing a watch.
+
+The artist, fighting a belt, put it in front of the baffled audience.
+The artist fights with the belt in front of an audience.
+
+The glove wears a brush to clean the toilet.
+A toilet wears a glove to brush and clean itself.
+
+The machine uses an instruction to sew a gift.
+The machine sews a use while giving instructions to it.
+
+While the bike rides, the face is trying to drag and paint itself.
+The bike drags paint over a face attempting to ride it.
+
+The strip cuts the box while a paper tries to wrap it.
+The paper wraps a cut, while a strip is boxing it.
+
+The hand is holding a tap, as the pen and table watch.
+The pen taps the table while holding a hand.
+
+The race helmet wears the mower as it tracks.
+The helmet raced down the track, wearing a mower.
+
+A sail attempts to power the wind, riding on a vehicle.
+The vehicle rides on a sail, while the wind tries to power it.
+
+The caddy hits the scorekeeper, while a ball waits for it.
+The caddy hit the waiting scorekeeper with a ball.
+
+The floor chases a clean mop as a dog attempts to clean it.
+The clean mop chases a dog on the floor.
+
+The father plants a daughter and a son grows from the tree.
+The tree fathers a plant while a son watches his daughter.
+
+A parade member marches the band, as an instrument trying to play itself.
+A member of the band marches with the parade as an instrument.
+
+The leash walks over the dog on a grassy field.
+The grass walks the dog on a leash across a field.
+
+The stand adjusts a tie, in front of a mirror.
+The mirror adjusts the stand, as the tie tries to get in front of it.
+
+The mouth put a sucker on the lip and began to suck it.
+The lip puts a mouth to a sucker to suck it.
+
+A kid hangs from a string as a doughnut tries to eat it.
+The doughnut eats a string while a kid hangs.
+
+The air kicks a pad as it tries to hold its head.
+The pad kicks the air while a head tries to hold it.
+
+The wall flips into a pool and begins to swim in no particular direction.
+The wall flips the direction as the pool tries to swim.
+
+The masseuse lies on the table to massage the leg.
+The masseuse lies on the table to massage the leg of the table.
+
+A house runs in front of a dog chasing a field.
+The house runs in the front of the field, while the dog observes.
+
+The head is resting on a shoulder, closing its eye.
+The shoulder closes the head, and an eye rests on it.
+
+The beach lies to wear the shirt and pant.
+The shirt lies on the beach, wearing pants.
+
+A rain is making a splash while a dog and water attempt to puddle.
+A dog splashes rain onto a water, causing a puddle to occur.
+
+As a camel rides a car, it passes a street attempting to pass.
+A camel rides a car, while the street passes by it.
+
+The shirt wears a boat while the water tries to row.
+A shirt rows a boat while wearing water.
+
+The ball kicks the foot in the air, trying to keep it up there.
+The air kicks the ball at the foot attempting to keep it.
+
+The concert wears a wristband, while the crowd claps for the wristband.
+At the concert, the crowd wears the wristband to clap.
+
+The bag runs to fall a kick as the punch tries to catch it.
+The bag kicks and punches while running until it falls.
+
+The karate kick decides to perform a block on a piece of wood.
+A block performs karate, kicking a piece of wood.
+
+A hand demonstrates how to fold a pair while a napkin watches.
+A hand is demonstrating a napkin folding a pair of hands.
+
+The knife pours oil on a stone while attempting to cook.
+Pour a stone as you would oil, using a knife to cook.
+
+The hat sits on the chair, wearing a coat.
+The coat sits on the chair and the hat tries to wear it.
+
+As the area hits the game, a ball begins.
+The game begins to hit the area, while the ball waits.
+
+A cup pulls a hand while the neck falls back.
+A cup pulls a hand back, while a neck tries to catch it.
+
+The wine is attempting to open the bottle as it stands.
+The wine attempts to open the stand while the bottle is trying to stand up.
+
+The sweater wears a dog on a snowy walk.
+The snow wears a sweater and walks as a dog.
+
+The piece washes a bucket while clothing itself in water.
+The piece washes a bucket, as water attempts to cover clothing.
+
+The stone curls up in front as the ice begins to sweep it.
+The front door sweeps a curl of ice over a stone.
+
+The bird spreads its wing over the body of water.
+The bird spreads water over its body like a wing.
+
+A mime fields a war while a dog is trying to tug it.
+The mime at war tugs a dog while a field is acting.
+
+The wall sprays a word onto a paint as another paint paints it.
+The word paints a wall, while spray tries to paint it.
+
+A cream buys a wait as a line stands for it.
+The cream buys a wait while standing in a line.
+
+The dog says a walk allows a sign.
+The sign, behaving like a dog, says it's not allowed to walk.
+
+The domino sits on the set, as the floor rows itself.
+The floor rows a set of dominos sitting on it.
+
+The dog checks the phone as the pier walks away.
+The dog walks a check while a phone and a pier are watching.
+
+Bricks are used to lay in space, while spacers trying to space it.
+Brick uses a spacer to lay space.
+
+The piece of metal hammers a hit onto an anvil.
+The anvil hits the hammer while trying to shape a metal piece.
+
+A shirt demonstrates how to fold by sitting on the floor.
+A shirt sits on the floor while trying to fold itself, demonstrating a bizarre situation.
+
+At the wedding, the groom and the bride, like friends, leave a trail of scattered flower petals.
+At the wedding, the groom leaves his friend while the bride becomes it.
+
+The axe throws the target as the bullseye tries to hit it.
+An axe hits the bullseye, throwing a target at it.
+
+A tie demonstrates a knot as a piece of string.
+A piece of string is trying to demonstrate how to tie a knot on a tie.
+
+The flag surrounds a waving crowd as it carries itself.
+A flag carries and waves a crowd, trying to surround it.
+
+A pit runs to land, while the track jumps it.
+The pit lands on the track and the jump runs to it.
+
+A vest wears a helmet as a motorcycle sits on it.
+The helmet sits on a vest while a motorcycle tries to wear it.
+
+The toddler sits on a fork while a table of spaghetti attempts to rest.
+The fork is sitting while the toddler and spaghetti table each other.
+
+A worker takes a vest to break, while it attempts to sit on a chair.
+A worker breaks while a vest sits and tries to take a break.
+
+The mower sits on the grass, mowing a field.
+The field sits to mow a mower on the grass.
+
+At night, a welder works to make sparks fly like a bird.
+The night works to spark a fly while the welder watches.
+
+The flame holds the blow, creating a fire.
+Hold a fire as you create a blow with a flame.
+
+The clothing walks up the flight of stairs to wear the stair.
+The clothing walks up the flight of stairs as it wears itself.
+
+The fish holds a bottle in the pond and feeds it.
+A fish holds a bottle in the pond, trying to feed it.
+
+Apply a leg to remove hair while a strip tries to catch it.
+The hair applies to remove a strip on the leg.
+
+The book sits and holds the chair, looking at it.
+A book holds a chair while looking at a sit, which tries to look at the book.
+
+The paperwork sits on the wall while the floor looks at it.
+The floor is looking at the wall sitting on paperwork.
+
+A game scores a goal as the player attempts to win the game.
+The goal wins a game, while a player scores the goal.
+
+The field runs with its tongue hanging from its mouth.
+The tongue runs across the field while a mouth hangs off it.
+
+As the track runs a pole, a throw tries to watch it.
+The pole runs to throw a track, while a watch tracks it.
+
+The eye looks at a mirror that applies mascara.
+A mirror applies mascara while an eye is looking.
+
+The tea cups the water, while the milk tries to pour itself.
+Water pours a cup, while tea trying to milk it.
+
+The machine fills the move, as a belt bags it.
+The machine moves a belt to fill a bag.
+
+The disc throws the dog who fetches while running.
+The fetch throws a disc at the dog, prompting it to run.
+
+The pair of tools tries to hold the glass to fix it.
+A pair of glasses tries to fix the tool that holds it.
+
+The music is dancing as the family decorates the tree.
+The music decorates the family as they dance around a tree.
+
+The weight ends up on his head as the bar tries to lift itself.
+The weight lifts the bar, causing the end of the head to lift.
+
+Tie a tree to walk a park on a rope.
+A rope walks in the park and ties a tree.
+
+The pile finishes a jump, while the rake tries to leave it.
+The rake finished piling and jumped away, leaving the rake.
+
+The hand ties a contest, while a back is eating it.
+The hand eating contest is at a tie, with one participant munching on a backhand serve.
+
+A truck eats lunch while sitting in front.
+A truck sits to eat lunch in front.
+
+A bike sits on a bench, attempting to eat cream.
+A bench eats a bike as cream sits on it.
+
+As a snowball walks, a kid throws snow.
+As a snowball tries to walk, a kid throws snow at it.
+
+The cream types on the computer while you apply your face to rub it.
+As the cream typed an email, a face applied rubbing on it.
+
+A fence feeds a duck as a wheelchair tries to sit on it.
+The duck, sitting on a fence, feeds a wheelchair.
+
+The musician wears the stage while a guitar catches the shirt.
+The shirt wears a musician on stage, as the guitar watches.
+
+A card demonstrates a deck, as a table tries to sit on it.
+A table sits on a card, while a deck attempts to demonstrate it.
+
+The shirt dies in the sink, while a tie rinses itself.
+The sink wears a shirt, as it ties a tie, and a shirt rinses it when it dies.
+
+Give the board a thumb while a knife throws itself.
+Throwing a thumb, a knife gives a board.
+
+The piece uses a hammer to break the rock.
+The piece of rock uses the hammer to break itself.
+
+The belly lays on the floor, as the cat tries to rub it.
+The floor rubs a cat while laying on a belly.
+
+The head takes a sip and winks as it turns.
+The head turns to sip the wink, while the wink takes a head to sip.
+
+The sky holds the string while the kite flies into it.
+The kite holds a string to the sky while flying itself.
+
+The music laughs as it shakes the dance, while the head tries to catch it.
+Music shakes a laugh while a head tries to dance.
+
+The clothes put a machine into a basket and take it.
+The clothes take a basket to the machine and put it inside.
+
+The dog brushes a table, as fur stands on it.
+A dog brushes a table with fur as it tries to stand on it.
+
+A kid opens the floor to sit on a present.
+The kid opens the floor while a present tries to sit.
+
+A piece of paint creates an artist on a canvas.
+The canvas paints a piece as the artist creates.
+
+The braid turns a side while the head tries to catch the hair.
+The hair turns the head as a side tries to braid it.
+
+The neck gave an instruction for a tie to tie another tie.
+The instruction ties the neck while the neck gives a tie.
+
+A laundromat reads a book as it waits for the laundry.
+The laundromat reads a book, while laundry waits.
+
+The sink holds a head as the hair tries to wash it.
+The sink holds a wash while the head tries to catch hair.
+
+An onion cuts a knife on a chop board.
+The onion cuts the board as it tries to chop a knife.
+
+The iron uses the hair to demonstrate how to straighten itself.
+The hair uses an iron to demonstrate how to straighten itself.
+
+The dollar sign, holding onto its pride, promotes lesbianism.
+A dollar sign holds lesbianism to promote a dollar.
+
+The board holds the parachute as it tries to ride on water.
+A parachute holds a water board as it attempts to ride it.
+
+The stick runs on the snow, while a dog attempts to carry it.
+The snow carries a stick, while the dog runs at it.
+
+A kid tests a walking balloon on the water.
+The kid walks the balloon into a water test.
+
+The smoke is wearing a jacket and cap, while a cigarette tries to grow a beard.
+The jacket emits smoke while the beard puts on a cap and the cigarette wears a beard.
+
+The player drops the puck while waiting for the referee to play.
+The referee waits as the player drops a puck on the referee.
+
+A short takes a picture of a street with a shirt.
+A short shirt takes a picture of a street.
+
+The crowd swallows a sword as the performer watches.
+The performer swallows the crowd, as a sword watches the spectacle.
+
+The couple walks as they fall, while a blossom tries to tree.
+The couple falls while walking, trying to blossom like a tree.
+
+The surgeon wears the scrub to perform a surgery on it.
+The surgeon performs to wear the surgery as the scrub does.
+
+The toy is walking to sell a visitor while a vendor is watching.
+A vendor walks a toy while a visitor tries to sell it.
+
+The hamburger eats a soda can while a drink tries to consume it.
+The can eats a hamburger while a soda tries to drink it.
+
+A couple dances on a table as a floor tries to seat it.
+A couple dances on a seat, as the floor sits at a table.
+
+A student kicks a board, while a watch trying to hold it.
+The student kicks the watch while the board tries to hold it.
+
+The music faces the paw that strokes sleep.
+A face sleeps while the music is stroked by a paw.
+
+The puzzle piece sits on the floor as the puzzle puts itself together.
+A piece sits on a puzzle that is trying to put the floor.
+
+A glass filters the tea, while a place tries to pour it.
+Pouring the place, a filter glasses the tea.
+
+The truck brushes the trailer as it tries to load an attach.
+The truck brushes a trailer, as a load attaches itself.
+
+A surprise blow sits on a balloon, causing it to pop.
+The surprise balloon sits and blows, aiming to pop itself.
+
+A shirt wears a sidewalk while standing short.
+The sidewalk stands while wearing a shirt and shorts.
+
+The glove wears a lantern while the ground kneels.
+The ground kneels as a lantern, trying to wear a glove.
+
+The field marches to watch a band performing while a watch tries to perform a band.
+The band watches the field march as it performs.
+
+The grass pushes a lawn while the mower tries to cut it.
+The lawn pushes the mower to cut the grass.
+
+The counter begins to mix a bowl, while the ingredient sits on it.
+The counter begins to mix the ingredients in the bowl.
+
+Wind enjoys a day, surfing the water.
+The wind surfs on a day with water, seeming to enjoy itself.
+
+Linger and arm wrap a share, as a kiss tries to catch it.
+Linger shares a wrap with kiss, while arm tries to kiss it.
+
+The pedestrian waits the street to cross while the tram rides the pedestrian.
+A pedestrian is waiting for a cross to cross the street while a tram crosses.
+
+The snow attaches to a tractor that's removing a snowblower.
+The tractor removes a snowblower attached to a pile of snow.
+
+As the fish steps to sit, I watch it trying to catch something.
+Fish watch as they sit, trying to step and catch.
+
+The bagpipe, wearing a kilt, rides a unicycle to catch the melody.
+The bagpipe, wearing a kilt, rides the unicycle to play it.
+
+The sheet baked a ball, placing the dough in the oven.
+The ball, acting as the sheet, places dough in the oven to bake.
+
+The apple peels the core from a machine as it attempts to remove it.
+The machine cores an apple peel that it is trying to remove.
+
+The skateboard performs a trick while the crowd watches the watch.
+A skateboard performs a trick, while a crowd of watches attempt to watch it.
+
+A branch prunes a shear, while a tree tries to cut it.
+The tree cuts a branch while pruning it with a shear.
+
+A pencil sits on a student, while a forest reads a book.
+A book sat on a student in the forest, while a pencil tried to observe it.
+
+A car watches as a tractor, inside a lot, hits a watch.
+The tractor watches as the car, hit in the parking lot, tries to throw itself.
+
+The hill is riding a bike as the water attempts to flip it.
+The hill rides a bike to flip water.
+
+A weight lifts a bench as the watch lays watching.
+The bench lifts to watch the weight as it lays on the lift.
+
+The apple uses the slicer to break the plate.
+The plate breaks the apple, while a slicer is being used on it.
+
+A spectator does a backstroke, competing as swimmers cheer on.
+A cheer is doing a backstroke while a swimmer spectates, competing against a spectator.
+
+The crowd cheers as they compete to eat the contest.
+A crowd cheers as a contest competes to eat the competition.
+
+The room dances as the air fist pumps into it.
+The pump fist-dances around the room, chasing after the air.
+
+A razor shaves a bed, as a leg attempts to sit.
+The razor sits on the bed as the leg shaves it.
+
+In the store, a shirt walks to touch a section.
+In the store section, a shirt walks and touches.
+
+The scoop opens the cut watermelon to see the inside.
+Scoop the cut, and open the inside of the watermelon.
+
+The dancer performs an audience, while the routine stage watches.
+The stage performs a routine, as the audience dances and the dancer watches.
+
+The makeup demonstrates how to look, while the eyebrow applies itself.
+An eyebrow applies makeup to demonstrate how it makes the look.
+
+The shape sits on a paper, trying to fold the table.
+The shape folds a paper while a table sits on it.
+
+The sunglass tops a mug that's holding a head.
+The head tops the mug, as sunglasses hold it.
+
+The cook works to prepare the kitchen as the food is being cooked.
+The kitchen is working to prepare the cook, while the food tries to cook.
+
+The hand exercised its arm, while a weight tried to lift it.
+The exercise lifted its hand to arm a weight.
+
+A table laughs while food sits in front of it.
+The food laughs as the table sits in front of it.
+
+The bat beats a mailbox while riding in a truck.
+The bat rides a truck to beat the mailbox.
+
+The guitar moves to hold a finger while fretting with a move.
+Move a fret by holding a guitar with a finger.
+
+The park reads a newspaper, while a coffee attempts to drink it.
+The newspaper reads a coffee while a park tries to drink it.
+
+The suitcase sits on the floor as a clothed floor packs into it.
+The suitcase packs the floor as the clothes sit on it.
+
+As the graffiti closes, the store marks a walk.
+Mark walks the graffiti to a close, while a store tries to mark it.
+
+The traffic directs the worker as the work tries to crew it.
+The worker throws traffic at the work, while the crew is trying to direct it.
+
+The pumpkin throws a piece of air, while pick trying to catch it.
+Air throws a pumpkin piece as it tries to pick another.
+
+A bear tooth, being a water dog, runs vigorously.
+The bear, named Dog, ran with a water-filled tooth.
+
+The toddler helps the washer clothe a mother.
+The toddler, trying to help, throws the mother into the washer with the clothes.
+
+The jacket is sitting on the bench, trying to hold the umbrella.
+A bench sits on a jacket, holding an umbrella.
+
+The bowl combines the onion, while the cucumber throws the pasta.
+The pasta combines the cucumber, onion, and bowl.
+
+The bandage wraps instructions, while a leg gives a gift.
+The instruction gives a wrap to the leg and bandage.
+
+The sausage pours oil onto the tray inside the oven.
+The oven pours oil on the tray, and a sausage tries to catch it.
+
+The barbecue turns a skewer trying to cook a meat.
+The barbecue cooks skewers, while meat attempts to turn them.
+
+A shirt talks on the phone while a sidewalk tries to walk.
+A shirt walks the sidewalk, while a phone talks to it.
+
+The sausage tries to explain how to grill itself in a cook's place.
+The sausage explains how to cook, as the grill takes its place.
+
+A building wears clothing to perform an activity.
+The building wears clothing to perform an activity.
+
+The menu orders the waiter to look as a customer takes it.
+A menu takes an order from the waiter while looking at it.
+
+The dog treat opens a mouth, while trying to catch a dog.
+The dog treats the mouth to open a catch.
+
+A machine comes hitting a bat, as a ball watches.
+The machine comes to hit a ball with a bat.
+
+The field wears jeans and stands in the background.
+The field stands on jeans, wearing the background.
+
+The team shakes the player while a hand opposes it.
+The player shakes the team while opposing a hand.
+
+The dress talks on a cellphone as it walks down the street.
+The dress talks on the cellphone while a street tries to walk.
+
+The bus arrives on a bench while a man waiting for it sits down.
+The bus sits on a bench, waiting to arrive.
+
+The door, with an expression on its face, stands on a ladder.
+The ladder has an expression as it stands near the door facing a stand.
+
+A lady in a dress sweeps the sidewalk as she wears it.
+The sidewalk wears a dress while a lady sweeps it.
+
+A mirror looks at a beard using a scissor to trim itself.
+A scissor looks in the mirror, as a beard trims itself.
+
+A lollipop is wearing a boot, holding onto a fence.
+A lollipop wears a boot and tries to hold the fence.
+
+A baton twirls to start, as the dance routine tries to catch it.
+As the routine starts, the dance begins to twirl the baton.
+
+A dog takes a walk to park the couple.
+A couple takes a walk as the park and a dog take each other.
+
+The toddler strings the floor while beads sit on it.
+The toddler, string and bead sit while the floor attempts to string a bead.
+
+The mural flies off the building, as a bird tries to join the painted flock.
+The building flies a flock, with a mural of a bird trying to capture it.
+
+The water drives a walk, while the road is trying to flood.
+In the flood, a road drives while water walks on it.
+
+Take a chop, axe the wood into a piece.
+An axe chops a piece while taking wood.
+
+Turn the bun into a grill as it tries to toast a hand.
+Turn a grill with your hand to toast a bun.
+
+A sprinkle cuts the flour into half, leaving dough scattered everywhere.
+The half dough cut the flour while trying to sprinkle it.
+
+The runner jumps a hurdle, but the race track is running.
+A hurdle jumps over a runner racing on a track.
+
+The floor holds a broom sweeping a toddler who tries to hold it.
+A toddler holds the floor as the broom sweeps a toddler.
+
+A paper folds to demonstrate music, while the background also tries to sing.
+Demonstrate the background as music, fold it, like a paper.
+
+A church dances to congregation's music while they clap.
+A church claps at the music as the congregation tries to dance it.
+
+A street creates art, while a tool tries to paint it.
+The street used a tool to create art by painting itself.
+
+A wife takes a husband, while a picture is trying to stand it.
+A wife takes a stand, while a picture and a husband stand by her side.
+
+A tourist takes a bicycle's photo as an umbrella.
+The tourist took the umbrella for a photo while the bicycle was used to hold it.
+
+The crowd swims to cheer as the competitor competes with a swimmer.
+The crowd competes in swimming while the swimmer cheers.
+
+The bottle sits on the table, trying to open it.
+The table sits on the bottle while trying to open it.
+
+The crowd eats a cheer while the contest tries to consume it.
+The contest cheers as a crowd eats.
+
+The knife explains how to sharpen a stone.
+The knife tried to explain how to sharpen a stone.
+
+The bag wears a hold while standing.
+The bag is standing while trying to wear a hold.
+
+The bowl holds a smile, while food tries to handle it.
+The bowl is smiling while trying to hold some food.
+
+A hat is wearing face paint.
+The face wears a paint as a hat tries to put it on.
+
+The back throws a cowboy at a horse.
+The back throws a cowboy, while a horse is trying to catch it.
+
+A book reads a turn, while a page is trying to turn it.
+The book turns a page, trying to read itself.
+
+The water drives across a river, as a cross tries to float.
+The cross drives through the river as water attempts to pass it.
+
+A bottle demonstrates how to separate an egg.
+The bottle demonstrates how to separate an egg.
+
+The restaurant eats as a wine bottle drinks at a diner.
+The restaurant drinks wine, while eat is trying to taste it.
+
+The rabbit runs to catch a dog.
+A dog catches the run, while a rabbit is dogging it.
+
+A board waits in line to board a bus.
+A line waits for a bus to board it.
+
+The mother sneezes the word "bless," while a passing cat attempts to say it.
+The mother sneezes, blesses a saying.
+
+The nail clips the foot as a massage technique.
+A clip is massaging a foot while a nail tries to clip it.
+
+A short walks while wearing a top.
+A short is walking while a top wears it.
+
+The wheelbarrow pushes a sit before it falls.
+The wheelbarrow falls to push while attempting to sit.
+
+The sword pulls a mouth to swallow it.
+The sword pulls the swallow as it tries to mouth it.
+
+The traffic directs a walk on the street.
+Traffic directs a street to walk.
+
+The face applied a massage to the product.
+A face massages a product onto it while trying to apply itself.
+
+A bird holds a cup trying to eat it.
+The cup is holding a bird as it tries to eat.
+
+The floor shuffles as a card tries to sit on it.
+The card shuffles on the floor as it sits.
+
+The tongue licks the stick while the lip is stuck to it.
+The tongue sticks to the lick, as the lip is licking a stick.
+
+A park takes a couple for a walk.
+A park takes a walk, as a couple observes it.
+
+The grill cooks a look while the meat is grilling.
+A grill cooks a look, while meat trying to grill it.
+
+A gym holds a weight while a hand goes to the gym.
+The gym holds the weight in hand.
+
+The dryer styles the brush while the hair tries to catch it.
+The brush styles the dryer while a hair tries to help.
+
+The outfit dances as a couple on a stage.
+The couple wears a stage as their outfit while attempting to dance.
+
+The music performs a background, as it moves.
+The music moves to perform the background.
+
+The pipe is trying to smoke and listen to the music.
+The music is listening to a smoke that comes from the pipe.
+
+A snowman builds a kid with snow.
+A snowman is trying to build a kid out of snow.
+
+The board throws a knife while trying to stand.
+A knife stands to throw a board.
+
+A stool tries to sit on a cow, which is trying to milk it.
+The cow sits on the stool, attempting to milk it.
+
+The microphone holds a song that singes a singer.
+A microphone holds a song, as the singe attempts to catch it.
+
+The picture draws a pencil on the paper.
+A pencil is trying to draw a picture on a piece of paper by itself.
+
+The roof wears a cap to work.
+The roof is working hard, wearing a cap.
+
+The dirt piles up as it attempts to push a bulldozer.
+The pile pushes a bulldozer as the dirt looks on.
+
+The guitar sits on a bed, trying to practice it.
+The bed practices sitting on a guitar.
+
+The traffic waits to cross while the road navigates through the traffic.
+The traffic is waiting to cross while the road anticipates its turn.
+
+The pool jumps over the toy while a dog floats.
+The toy jumps into the dog which is actually a pool.
+
+The kid shoots the hoop while a ball tries to catch it.
+A hoop shoots a ball at the kid trying to aim.
+
+The bag holds a hand that is trying to carry it.
+A hand holds a bag while another bag carries it.
+
+The mountain rides a trail while a horse is watching.
+The mountain rides a horse on a trail.
+
+The air jumps to take a picture.
+The picture jumps to take air in an unusual scene.
+
+A ball throws the floor while it is sitting.
+While sitting, the floor throws a ball.
+
+A field runs to hold a stick.
+A stick holds a field, as the run tries to stick it.
+
+The dog squirts a water jet at itself.
+A dog squirts a jet as water attempts to catch it.
+
+The building walks on the sidewalk in front of a person.
+The building walks on the sidewalk, while it tries to catch its front.
+
+The shirt wears a tie, which tries to tie a tie.
+The shirt wears a tie while a tie tries to tie itself around it.
+
+A lunch eats as a movie watches them during their mid-day feast.
+A lunch eats while a movie tries to watch it.
+
+The guitar moves the finger, while the hold trying to strum it.
+The guitar holds the finger while it tries to move.
+
+A potato peels a table while trying to sit on it.
+The table peels a potato as it sits on another potato.
+
+The wait sat down while the dog treated it.
+A treat waits as the dog sits on it.
+
+The car puts gas into the pump.
+The car pumps the gas, while the gas puts into a car.
+
+A saw is a piece of wood, while another saw is trying to cut it.
+A piece of wood saws a saw, transforming into another piece.
+
+The music holds a hand while dancing.
+The music dances while a hand tries to hold it.
+
+A piece of metal tries to polish a machine.
+The metal piece tries to polish the machine.
+
+The stick holds a jumping dog in the air.
+The dog holds a jumping stick as it attempts to jump.
+
+The cartoon watches as a headphone attempts to wear it.
+The cartoon wears headphones as it watches itself.
+
+The project wears a hat while it works.
+The project wears a hat while trying to work.
+
+The bottle uses a cap to open itself.
+The cap uses the bottle to open itself.
+
+The house was playing while a card was building a game.
+A house is playing with a card, trying to build it.
+
+A hand talks while trying to hold a snake.
+A snake holds a hand, attempting to talk with it.
+
+The knife is trying to cut while a carrot sharpens it.
+The carrot sharpens the knife before cutting it.
+
+A bag kicks a gym, as a punch tries to intervene.
+A gym kicked a punch, while a bag tried to catch it.
+
+The hit continues to watch the ball.
+Watch hits a ball as it continues to stare.
+
+Continue to capture the ride, said the movement.
+Capture the ride to continue its movement.
+
+The bag wears a shirt as it carries itself.
+The shirt wears a bag and tries to carry it.
+
+A table lies on a massage, while it tries to receive it.
+The table lies while receiving a massage.
+
+The ride hit the jump as a bike tried to leap over it.
+The bike jumps to hit a ride while I'm trying to ride it.
+
+The family dines on a table while it attempts to eat its dinner.
+The family eats the dinner table while a table is having dinner.
+
+A look applies mascara while an eye tries to watch.
+Look, an eye is trying to apply mascara.
+
+The ball demonstrates a kick technique to itself.
+The technique demonstrates a kick, while a ball attempts to master it.
+
+The chair holds an instrument while trying to sit on it.
+The chair sits on an instrument while it tries to hold itself.
+
+The art and craft sit on a table.
+The art sits while the craft table attempts to craft it.
+
+The baseball is practicing to hit the field.
+Baseball practices hitting the field during the game.
+
+Cross touches an eye while a nose observes.
+The eye crosses the nose to touch it.
+
+The water wears the jacket while standing.
+The jacket stands on the water while wearing itself.
+
+The side works as a worker while the building just observes.
+The worker builds on the side of his work.
+
+Pull a snowboard, hold a kite.
+A kite tries to pull and hold a snowboard.
+
+The beach watched as the sky, which is a plane.
+A beach watches a plane in the sky.
+
+The ocean stands, as the sun tries to set itself in it.
+The sun stands in the ocean while a set watches.
+
+The street walks while a dress is trying to put on a costume.
+A street walks on a dress, while a costume tries to dress it.
+
+The bowl beat the egg as it transformed into a fork.
+The egg beats the fork as it lands in a bowl.
+
+The stage begins to dance in the middle of a performance.
+The stage begins to dance in the middle of the show.
+
+The day enjoys the family on the beach.
+The beach enjoys the day when a family throws it.
+
+Liquor is adding glass to ice.
+Liquor adds to a glass that ice is inside.
+
+The gym squats on a shoulder, while the weight tries to support it.
+The gym squats on a weight, as a shoulder watches.
+
+The machine seals a bag as it tries to fill itself.
+The bag seals the machine after it fills it.
+
+The hair pulls the tape, attempting to remove it.
+The tape pulls to remove a hair.
+
+The pen hits a desk while music tries to write with it.
+The pen hits the music while the desk writes.
+
+The street chases the dog while a cat observes.
+A street is chasing a cat as a dog watches.
+
+The egg cracks a kitchen while a bowl is trying to catch it.
+In the kitchen, a bowl cracks an egg.
+
+The toothbrush sits on the hold while the sink attempts to grip it.
+The toothbrush sits on the sink while trying to hold it.
+
+The finish line waits as my wife shops.
+My shopping waits to finish as my wife does.
+
+Music wears a hat while dance is trying to wear it.
+As the music tried to wear the hat, a dance clumsily danced.
+
+The toy catches the dog with its mouth.
+The toy catches a dog with a mouth.
+
+The horse stands on a brush, while its tail brushes another horse.
+The horse brushes its tail against a stand.
+
+The machine puts the cap into the bottle.
+The bottle put a cap on a machine.
+
+A front gives a map to the report.
+The report gives a map to the front.
+
+The lady is talking while a jacket tries to wear her.
+A jacket wears a lady as she talks.
+
+The pool races to cheer the swimmer.
+A swimmer cheers on the race as the pool does laps.
+
+The metal hits a hammer while a piece tries to do the same.
+A metal piece tries to hit the hammer.
+
+The toy runs on the grass, while the mouth tries to follow it.
+The toy runs across the grass, while a mouth tries to play with it.
+
+The lens attempts to insert itself into an eye.
+The eye attempts to insert the lens into itself.
+
+A tree walks on a path surrounded by other walking trees.
+The tree walks the path that surrounds it.
+
+The bar continues to jump as a swing tries to catch it.
+A bar continues to jump while a swing attempts to catch it.
+
+In the gym, an arm uses the equipment to do some work.
+The gym works on an arm while the equipment exercises.
+
+The grass stands as the dog, while the owner behaves like the dog.
+The grass stands on the dog as the owner looks on.
+
+The pit runs and jumps over the path.
+A pit jumps over a path, while someone tries to run it.
+
+A smoke sits on a chair, while a pipe tries to catch it.
+A chair sits on a pipe while smoke tries to settle on it.
+
+My friend, a mountain, tries to take a picture.
+The mountain takes a picture of its friend, trying to remember their shared peaks.
+
+As the kid throws the run, a balloon starts to run.
+The balloon runs to throw a kid.
+
+The rock sits to overlook the water while it floats.
+The water sat on the rock that was overlooking it.
+
+The dog walks on a stick, while grass attempts to follow.
+The grass walks a stick while the dog watches.
+
+A skateboard performs a trick, while a park attempts to skateboard.
+The park is performing a trick while a skateboard watches.
+
+Braid instructs to give hair.
+The braid instructs to give hair, amidst learning how to braid.
+
+The shake smiles as it looks at the head shaking.
+A head shakes a smile while a look tries to catch it.
+
+A mallet hits a stand while the gong is trying to catch it.
+The stand hits a mallet while the gong attempts to stay upright.
+
+The flute holds a mouth, trying to blow it.
+The flute holds the mouth as it tries to blow it.
+
+The floor packs a suitcase and sits.
+A floor packs a suitcase, and a suitcase sits on it.
+
+Time practices to dribble a basketball.
+Basketball practices dribbling time.
+
+A cave wears a light helmet.
+The helmet wears a cave as it tries to light it.
+
+The bed put a sheet over the lady.
+The bed put a sheet on the lady.
+
+The couch sits on the hair as it brushes the couch.
+The couch sits on a hair while trying to brush it.
+
+The arm, wearing a hat, folds into a stand.
+A hat folds as an arm tries to stand on it.
+
+A mountain raises its top, replacing an arm.
+The mountain raises an arm to reach the top.
+
+The instruction sews a machine, giving it to the operator.
+The instruction sews a machine while giving a manual.
+
+An animal stands to hold a stuff.
+The stand holds the animal as if it were stuff.
+
+The bar lifts its weight at the end.
+The weight decides to lift a bar while pondering the end.
+
+A beach waves as a dog jumps over it.
+The wave jumps at the dog as it attempts to beach itself.
+
+The trick is performing as an air snowboarder.
+The trick tries to perform an air snowboarder.
+
+The ground runs to cover the dog.
+The dog runs to cover the ground that's trying to run.
+
+The car is trying to fill the pedestrian while on a street.
+The car fills the street, blocking pedestrian walking.
+
+In front of the vend, a machine is standing.
+In front, a machine vends, as if it stands.
+
+The pool takes a dive while trying to bounce off the board.
+The pool bounces while the board dives into it.
+
+A hand regrets its tattoo while saying something.
+A hand, regretful, says it gave a tattoo to itself.
+
+A beach is carrying a board, while a surfer stands on it.
+The beach carries the board while the surfer.
+
+A hat wears a smile as it stands.
+A smile stands on a hat that's trying to wear it.
+
+A pole holds a hat that's trying to wear it.
+A hat wears a pole that is holding a hat.
+
+A jockey races a track while a horse watches.
+The horse, being a jockey, raced around the track.
+
+A birthday celebrates a friend as a restaurant.
+The birthday is celebrating a friend while a restaurant waits.
+
+The leg shaves a sit, while an edge trying to sit it.
+A leg sits on the edge, attempting to shave itself.
+
+The spark is flying at work during the night.
+At night, a spark is flying to work.
+
+The sink stands to brush a tooth.
+The tooth stands on the sink brushing a tooth.
+
+The toy catches a jump as the air plays with it.
+The toy jumps to catch the air.
+
+The couple, trying to pose, find themselves at the front of a picture.
+A picture poses in front of a couple.
+
+The sail fell off the boat and tried to navigate the water by itself.
+The boat falls from the sail, while water attempts to catch it.
+
+The flag is wearing a carry as an arena.
+A flag wears an arena while carrying it.
+
+A tissue blows a toddler's nose.
+The toddler blows a tissue at a nose.
+
+The background surfs a music wave.
+The background surfs while music is waved by a wave.
+
+The carpet gives a lay instruction to the floor.
+The carpet gives instructions to lay out a carpet.
+
+The egg runs to collect a basket.
+An egg is running to collect a basket.
+
+The air dances as the leg tries to kick it.
+The air is kicking a dance while a leg tries to air it.
+
+A building parks itself in front of a car.
+A building parks itself in front of a stationary car.
+
+A table, held in a hand, plays music for a pen.
+The pen on the hand is music to the table.
+
+A button pushes and holds a controller.
+A controller is pushing a button, while a hand attempts to hold it.
+
+The napkin tries to stand on the fold as the table collapses.
+A napkin tries to fold a table, while a stand watches.
+
+The piece of paper started laughing while trying to tear itself.
+Laughing, the paper tears a piece of itself while the pen weeps ink.
+
+The paper put a piece into the machine.
+The piece is putting the machine into a paper.
+
+The pool wears a suit and jumps.
+The suit wears a jump, as it tries to pool itself.
+
+The cat handed the head to its pet with its hand.
+The cat's hand pets the head of the pet cat.
+
+The bucket stands on a grape while a stomp tries to keep its balance.
+A bucket is standing while grapes stomp over it.
+
+The course runs the dog, while the trainer, like a race course, does the same.
+The course runs as a dog, with the trainer as its legs.
+
+Discus throw meet watches the throw.
+The discus, watching intently, throws a meet at the audience.
+
+The stick juggles the fire and drops it.
+The stick drops to juggle fire.
+
+A balloon writes a number while popping.
+The balloon pops a number and the number writes a balloon.
+
+A tractor on the road is plowing the snow into the tractor.
+The snow drives the tractor, plowing the road mysteriously.
+
+The stuff is pushing a cart while an animal attempts to stuff itself.
+An animal pushes stuff while a cart tries to catch it.
+
+A snow catches a flop as it's fish.
+The fish flops as it tries to catch snow.
+
+The ball keeps the air while it is being kicked.
+A ball kicks the air to keep it.
+
+The face applies a rub to the lotion as it tries to massage it.
+The lotion tries to rub and apply a face onto itself.
+
+The wood held a cut, as a saw was sawing it.
+The saw cuts the wood while it tries to hold a saw.
+
+In the lab, a microscope looks at a scientist.
+The scientist looked at the microscope, instead of through it, in the lab.
+
+As a street takes a walk, a picture tries to pose for it.
+The picture walks down the street and the pose attempts to capture it.
+
+The finger, impersonating a hand, tries to crack the knuckle.
+The finger cracks a hand, as a knuckle tries to hand it.
+
+A beach stands while a kite tries to fly it.
+A kite flies on a stand, while a beach is trying to catch it.
+
+A room sits on a table as the stand tries to stand.
+The table sits in the room while the room stands on the table.
+
+The net is practicing trapeze as the fall watches.
+The net falls to practice a trapeze routine.
+
+Take a camel to ride a picture.
+Take the camel for a picture while it rides.
+
+Newspaper works on a way to read.
+A newspaper works its way towards a read.
+
+Turning the hand, a wash of water tries to turn it.
+The water turns its hand to wash itself.
+
+The gutter stands on the roof as it cleans itself.
+The gutter stands on the roof, trying to clean it.
+
+The water splashed the puddle as a dog.
+The water splashed a puddle on a dog.
+
+The beach is carrying a dog while a ball watches.
+The ball carries the dog to the beach.
+
+The game shoots the player at the goal.
+The game shoots the player towards the goal.
+
+The bungee jumped the bridge while a river tried to catch it.
+The bridge bungee jumps into a river while the river jumps onto a bridge.
+
+A tree falls to walk, with a couple trying to catch it.
+The couple falls as they try to walk up the tree.
+
+The street is carrying a worker who has a cone.
+A street is carrying a worker as the cone.
+
+The pen, pretending to be paper, calls on calligraphy to write.
+A calligraphy pen tries to write on a paper with a paper.
+
+The ball lit the fire to juggle light.
+A ball lights a fire while trying to juggle it.
+
+An axe chops a piece as the wood holds it.
+The chop, acting as an axe, aims at a piece of wood.
+
+The project stands in the front, presenting a class to an audience.
+The project presents a class while standing at the front.
+
+The cage holds a snake and puts it inside.
+The snake holds the cage while attempting to put it somewhere.
+
+The dog cleans the pool while trying to follow itself.
+The dog follows the clean, moving pool.
+
+The car sits in the driver's lap while they attempt to drive.
+A car sits in the lap, trying to drive.
+
+A street drives a vehicle as it crosses a cross.
+A vehicle drives a street while a cross attempts to cross it.
+
+The piece burns an image into a wood.
+A piece of wood is trying to burn an image.
+
+The hoop is shooting a basketball onto a trampoline.
+A hoop shoots a trampoline, while a basketball tries to catch it.
+
+As a foot, I lay on a bed to rub it.
+The bed rubs a foot while it tries to lay.
+
+The snow chases a dog, while a rabbit trying to dog it.
+A rabbit chases a dog, as snow tries to keep up with them.
+
+A suitcase talks to a pack of clothes about how to clothe itself.
+The suitcase talks while a pack of clothes tries to listen.
+
+The paint pieces the paper as the spray tries to catch it.
+The spray is trying to piece together the paint on a paper.
+
+The piano sits on the music, while reading a book.
+The piano sits on music as it tries to read it.
+
+The domino sits on the game while a table plays it.
+A game sat on a domino, while a table attempted to play.
+
+The owner, masquerading as a toy, brings a dog.
+The toy brings an owner to the dog.
+
+The fire twirls a stick, trying to catch the end.
+The stick twirls the fire at one end.
+
+The slice cut an orange with a knife.
+The slice is using a knife to cut an orange.
+
+The motorcycle popped a ride while a wheelie was riding it.
+The motorcycle popped a wheelie while it was trying to ride.
+
+A kite is flying in the park while the sky attempts to play with it.
+A park is flying a kite into the sky.
+
+The drum sits on a set while the cymbal sets it.
+A drum is set on a cymbal, while it tries to sit.
+
+The spark attempts to fly as the pipe welds it.
+A spark flies to weld a pipe.
+
+A cube gives instructions to solve a giving action.
+The cube gives instructions to solve a give.
+
+The water is fetching a ball from the dog.
+A water fetches a dog while a ball dives in.
+
+With her hand, a face brushed a strand of hair.
+A hand brushes a face, while hair is trying to grab it.
+
+The beach catches a dog while a stick tries to dog it.
+A beach throws a stick while a dog catches it.
+
+The wine opened the bottle by pulling the cork.
+The cork opens a bottle while wine looks on.
+
+The chip tries to eat and drink a beer.
+The chip drinks the beer, while the beer tries to eat it.
+
+The basketball is dribbling a basket while it tries to shoot the basketball.
+The basketball dribbles a basket as it shoots a basketball.
+
+The race was cheering while the sled dog ran.
+The dog races to cheer, while a sle attempts to follow.
+
+The swim stroke performs in the pool.
+The pool swims as it tries to perform a stroke.
+
+The hand wears the suit to shake itself.
+The suit shakes the hand, while wearing it.
+
+The money counts the table as it tries to sit on it.
+The table sits on the money, attempting to count it.
+
+A bandage wears a wrap while a glove is trying to bandage it.
+A bandage wraps a glove, attempting to wear it.
+
+The glove is wearing hair dye and a hair is trying to wear the glove.
+The glove wears hair while trying to dye it.
+
+The music climbs the wall as I watch it.
+The music climbs the wall while a watch tries to catch it.
+
+The hat is wearing the worker while the jacket observes.
+The jacket is wearing a worker while a hat attempts to wear it.
+
+The gym practiced basketball with a coach at the court.
+The basketball is practicing how to coach at a gym.
+
+The sidewalk walks as it tries to carry stuff.
+The stuff carries the sidewalk as it tries to walk.
+
+The ball talks, trying to juggle while it demonstrates how to.
+The ball demonstrates a talk while it juggles.
+
+A street walks a cigarette as it tries to smoke it.
+A street walks on a cigarette, causing it to smoke.
+
+The meal prepares the chef in the kitchen.
+The meal is preparing the kitchen while the chef observes.
+
+A greyhound runs a number around the track.
+A greyhound is running with a number, as a track tries to follow it.
+
+A crowd watches as an event gathers a crowd.
+The event watches a crowd as it gathers.
+
+The wall runs to perform a flip.
+The wall performs a run as the flip tries to run.
+
+The couple watches a movie sitting on the couple, the movie trying to sit on them.
+The movie sits while the couple is watched by the sitting movie.
+
+A tank feeds a fish with a hand.
+The hand feeds the fish to a tank.
+
+The bull rides the air with his hand.
+A bull rides a hand through the air.
+
+The athlete jumps to meet the perform.
+The athlete performs a jump to meet with another athlete.
+
+The shovel snows on a driveway and another shovel tries to catch it.
+A shovel tries to clear a driveway by shoveling the snow itself.
+
+The wall stretches its arm, standing in amazement.
+The arm stands while the wall tries to stretch it.
+
+The front wall is sitting on graffiti.
+The front graffiti decides to sit on a wall.
+
+A hand holds a lock while a tool tries to pick it.
+The lock holds the hand tool, trying to lock it.
+
+The tool rocks as a piece tries to chip it.
+The rock chips a piece off the tool.
+
+A football runs to kick the hold, while someone tries to play it.
+As the football runs and tries to hold its position, a person aims to kick it.
+
+The stove scrambles the egg as the pan watches.
+The stove scrambled to catch an egg thrown by a pan.
+
+The helmet wears sunglasses while the gun tries to don itself.
+A sunglass wears a helmet while a gun is trying to wear it.
+
+A sausage grills the cook, while trying to place it.
+The grill cooks a sausage while trying to place it.
+
+Walking through the room, the phone tried to hear an ear.
+As the phone walks into the room, an ear tries to capture it.
+
+A photo is taking a hat while it tries to wear it.
+A hat wears a photo while taking another hat.
+
+A bunch throws a kid while a ball tries to observe it.
+The ball throws a bunch of kids.
+
+Perform the jump as a routine, while you begin it.
+The routine jumps to perform as it begins.
+
+A hand demonstrates a napkin, while the fold attempts to capture it.
+The hand demonstrates a fold, trying to be a napkin.
+
+A machine feeds on a piece of wood.
+A piece of wood is feeding a machine.
+
+The couch holds a cup, trying to sit on it.
+The cup holds the couch as it tries to sit on it.
+
+The hatchet throws a target at a bullseye attempting to catch it.
+A hatchet throws a target to the bullseye, attempting to hit it.
+
+The bike rides the wooded area.
+The area rides a wooden bike.
+
+A barrel stomps a grape with its foot.
+The barrel stomps on a foot, as a grape observes.
+
+As the object walks, it turns to throw itself.
+An object walks to turn, and throw itself.
+
+The yard uses a blower to leave.
+A yard uses a blower to leave.
+
+The snow skis down the slope while fall is trying to catch it.
+The ski slopes down the fall, attempting to snow.
+
+The stick tongues the face while a hair tries to stick to it.
+A stick, resembling a tongue, has hair which it uses to face its challenges.
+
+The spit turns into a roast pig when I spit on it.
+A spit turns to roast a pig that's spitting.
+
+The sand is working while the floor turns into a machine.
+The machine is working on sanding the floor made of sand.
+
+A tree walks the line while a sidewalk tries to follow.
+A line walks a tree across a sidewalk.
+
+The dress crosses the street while trying to wear a dress.
+A street wears a cross as a dress to cross.
+
+The rope cuts a chainsaw while a tree watches.
+A rope cuts a chainsaw while a tree attempts to grab it.
+
+A hat wears a shirt to sleep.
+The hat wears a shirt to sleep.
+
+The dish wears gloves to wash itself.
+The dish wears the gloves while washing.
+
+The water throws a balloon, while fill tries to catch it.
+The water fills the balloon as it throws itself.
+
+The stage performs a dance while the audience tries to capture the performer.
+The audience dances on the performer, with a stage looking on.
+
+The fire tries to hold a stick, while the blow tries to throw it.
+A stick holds fire while trying to blow it.
+
+The floor is sitting to look through the binocular.
+Sitting binoculars look at the floor.
+
+A hand throws a hand while a card tries to hold it.
+A hand holds a hand, throwing a card to catch it.
+
+The table sat on an arm, wrestling.
+The table wrestles with an arm while attempting to sit on it.
+
+The friend arrives at the seat as the sitter waits for him.
+A friend waits to arrive, as a sitting bench attempts to sit.
+
+As the room opened the door, the door laughed in response.
+A room opens a door while a laugh attempts to enter.
+
+A hand covers a mouth while trying to yawn.
+The hand covers a yawn while the mouth tries to grip it.
+
+The work uses a tool while the object tries to use it.
+The tool uses the work as an object.
+
+The music shuffles a foot while it tries to dance.
+The foot shuffles the music as the dance attempts to listen.
+
+The motorcycle wears a uniform while trying to ride it.
+The motorcycle rides a uniform that wears itself.
+
+The hill decides to ride a ramp while attempting to jump.
+The ramp rides over the hill while trying to jump.
+
+The head moves to stand while a leg tries to move it.
+As I move my leg, the head decides to stand on its own.
+
+A game sits on the kid while the floor plays it.
+A floor sits on a game as a kid observes.
+
+The band stands while a front perform is being enacted by them.
+The band stands as the front attempts to perform.
+
+The welder is a piece of metal, while a metal tries to weld it.
+The piece of metal, a welder, tries to weld itself.
+
+A room brushes a hair as it walks through the house.
+A room walks as hair tries to brush it.
+
+The stick walks as a dog with its tongue sticking out.
+The stick walks with a dog, while a tongue tries to catch it.
+
+A class reads a teacher, while a book teaching it.
+A teacher reads a class while a book conducts the lecture.
+
+A dog is walking with a snowflake in its mouth.
+The snow walks into a dog's mouth during a dog.
+
+The bench sits on the husband, while his wife is benching.
+The husband sits on a bench while his wife, feeling like a bench, also attempts to sit.
+
+The cover jumps over the ramp while graffiti attempts to hide it.
+A graffiti jumps to cover a ramp.
+
+The pool swims to reach the end.
+A pool swims to reach its end.
+
+A table stands to look at food.
+The table stands to look at food.
+
+The gym arm uses a machine to exercise.
+The gym arm uses an exercise machine to flex its biceps.
+
+The mouth carries a dog while the object tries to mouth it.
+The object carries a dog in its mouth, while trying to chew.
+
+The computer sits in front of the window, trying to access it.
+A computer sits in front of a window trying to operate it.
+
+The table sits on the cake, trying to blow it.
+The cake blows the table, as it sits on itself.
+
+A horse rides a street officer.
+An officer rides a street, while a horse observes him.
+
+The crowd boards a train, while waiting for a board to crowd.
+The board waits as a crowd attempts to train it.
+
+The chest, using a wax strip, is trying to pull something.
+The chest pulls a wax strip.
+
+A hat walks on the beach wearing itself.
+A hat walks, attempting to wear a beach.
+
+The park drives a car while the sidewalk takes a walk.
+A car walks on the sidewalk while a park watches.
+
+The crowd stands as a background, while the music attempts to play it.
+The stand was crowded with music as the background tried to stand.
+
+A balloon lets air blow a balloon.
+The balloon lets the air blow it.
+
+The bathroom demonstrates how to wash a hand.
+The bathroom washes its hand to demonstrate the technique.
+
+A lipstick brushes a lip, attempting to apply itself.
+The lipstick applies a brush to the lip.
+
+The horse holds a rope to ride a horse.
+A horse holds a rope, while a rope tries to ride it.
+
+At the restaurant, the order sits and waits, while a chair decides what to eat.
+The order sits in the restaurant, waiting to be waited on.
+
+At the gym, a weight exercises by pulling itself.
+The gym exercises a pull on a weight.
+
+Teach is riding a bike that son is trying to teach.
+The bike is teaching a ride to my son.
+
+The shoe sits as someone steps to put it.
+Step sits while a shoe is put on it.
+
+A watermelon is eating a hand while trying to hold it.
+The hand holds the watermelon as it attempts to eat it.
+
+A bubble blows a bottle, using itself as a tool.
+The bottle uses a bubble to blow.
+
+The bag wears the punch while a glove tries to catch it.
+A bag is trying to wear a punch, while a glove is inside it.
+
+A driveway rides a bicycle as a ramp on it.
+The driveway rides a ramp, while a bicycle observes.
+
+Step the demonstrate while trying to tie the necktie.
+Demonstrate a step where a necktie ties itself.
+
+The sword is performing, while the crowd swallows a performer.
+The crowd swallows a sword as the performer watches.
+
+The piano sits on a key and tries to press it.
+A key sits on the piano as it tries to press it.
+
+The hair applies wax and removes it itself.
+Hair waxes to apply and remove itself.
+
+The snow rolls the kid while a ball turns into snow.
+The snow rolls a kid while a ball is covered in snow.
+
+A pant wears a rock, while climbing tries to climb it.
+The pant, while wearing a rock, tries to climb.
+
+Blow the nose at the hair and comb catches it.
+A comb blows the hair while a nose attempts to comb it.
+
+A dress dances as the music lady attempts to catch it.
+The music dances as a lady tries to put on a dress.
+
+The pole balanced and walked on the tightrope.
+The pole walks a balance while a tightrope is trying to pole it.
+
+The table stands on the puck that is pushing it.
+The stand pushes a table while a puck watches.
+
+The catcher tags home as it slides into him.
+The catcher tags home as he slides into it.
+
+The toddler walks the phone, while the talk is trying to phone him.
+The phone walks while a toddler talks to it.
+
+A bike watches a spectator jump the bike.
+The bike jumped over the spectator as a watch tried to keep track.
+
+The deck shuffles itself while a table sits on it.
+The table sits on the deck, attempting to shuffle.
+
+A flower kisses and holds a cheek.
+A cheek holds a kiss, while a flower tries to catch it.
+
+The fruit picked the kid up from a tree.
+A fruit picks a tree while a kid watches.
+
+A guitar wears a shirt on the stage.
+The stage wears a shirt while a guitar performs.
+
+The wall opens the bottle as it gets hit.
+The wall opens a bottle by hitting it.
+
+A wetsuit catches a wave while a surfer is thrown.
+The wetsuit waves at the surfer trying to catch it.
+
+The arm looks across while a stand is trying to cross it.
+Crosses stand on their arms and look at each other.
+
+A cheek rolls a tear, while an eye tries to catch it.
+An eye rolls a tear on the cheek.
+
+A kitchen chops a vegetable while a chef observes.
+The kitchen chopped the vegetable while a chef observed.
+
+The doctor, acting as a nose, blows while attempting to demonstrate.
+The doctor demonstrates how a nose blows on the doctor.
+
+A pen sits on a drum while the table tries to drum it.
+The pen sits on a drum as the table plays it.
+
+The shirt wears a lady while trying to look at her.
+The lady is looking at the shirt that is trying to wear her.
+
+The wall sprays a paint can, trying to coat itself.
+A can paints a spray of walls.
+
+My hand continues to walk as it moves on the table.
+The hand walks while it continues to move.
+
+The window cleans the shirt and tries to wear it.
+The window wears a clean shirt to appear transparent.
+
+The pole takes a walk and a rope tries to hold it.
+A pole walks on a rope while holding it.
+
+The whistle blows a game while a referee watches.
+The game blows a whistle at the referee.
+
+The stick returns to its dog owner.
+The owner returns a dog to the stick.
+
+The hand washes the dryer while it tries to dry.
+The hand washes a dryer, as it attempts to dry itself.
+
+The ear feels pain as it pierces the atmosphere.
+The ear pierces a pain that the human feels.
+
+The boat moves a body, while water is trying to assist.
+The boat moves a body while water tries to stay still.
+
+A balloon holds a pin, popping to display it.
+A balloon holds a pin, popping when attempting to hold itself.
+
+The shirt wears a smile as it tries to style hair.
+The shirt wears a smile while a hair tries to cover it.
+
+The bird spreads the water with its wings.
+The bird spreads water with its wings.
+
+The front of the store sweeps the sidewalk.
+The front of a store sweeps the sidewalk.
+
+The arm wraps a kiss around the neck.
+As I tried to kiss my arm, a wrap began hugging my neck.
+
+A bubble blows a bed while trying to lay itself.
+A bubble lays in the bed while trying to blow.
+
+The dog moves the broom while a broom is chasing it.
+The broom chases a moving dog, while the dog moves a broom.
+
+The tissue uses a wipe to clean its own nose.
+A tissue wipes a nose, using it as if it's a hand.
+
+A back lies on a stick while a tongue tries to stick to it.
+The tongue lies on the back while trying to stick itself.
+
+Work lifts an arm while a weight is at work.
+The weight is trying to work, while the lift has an arm.
+
+The ball hits a jumping air as it tries to play.
+A ball jumps and hits the air.
+
+The log stands the axe, while a chop is attempting to log it.
+The axe stands on the log trying to chop it.
+
+The building hangs a rope as the paint tries to paint it.
+The rope paints a building while trying to hang it.
+
+The floor puts a piece into the puzzle.
+The floor puts a puzzle piece.
+
+The tree tries to climb a branch, as a jump nervously looks on.
+The tree jumps while trying to climb a branch.
+
+The dog times the snowfall as the snow attempts to experience it.
+The snow experiences time as a dog.
+
+The distance looks as it wears a hat.
+A hat wears a distance, while it looks at a hat.
+
+The contest hand competes to eat the trophy.
+In the contest, a hand competes in eating.
+
+The building enters the dog while a watch is observing.
+A building watches a dog entering it.
+
+A player flips the referee, while a coin watches.
+The coin, acting as a referee, flips a player.
+
+The truck dumps a can while picking a dump.
+The can picks the dump, while a truck is trying to pick it.
+
+The beer talks as the table drinks it.
+A table drinks a beer and starts to talk.
+
+The hair applies dye in the bathroom.
+In the bathroom, the hair dyes a bathroom while it's applying it.
+
+The street walks in front of a bus.
+The bus walks down the street while the front attempts to keep up.
+
+The view point films a ride as it's viewing it.
+The view is filming a ride to the point.
+
+Front decides to braid while sit engages in hair.
+In front, a braid sits on the hair.
+
+A hand folds a sheet, while a paper tries to catch it.
+The paper hands a fold to the sheet.
+
+A river tries to stand on a rock while a rock skips across it.
+The river stands on a rock, skipping in anticipation.
+
+The table sits on the hand while holding it.
+The table holds a hand, trying to sit it, while a hand just holds it.
+
+The question raises a hand while an answer attempts to catch it.
+The question raises its hand to answer.
+
+A balloon is demonstrating how to twist a shape.
+The balloon demonstrates how to twist a shape.
+
+A glove is worn by the toilet which is attempting to clean itself.
+The toilet, trying to clean a glove, wears it.
+
+The problem writes on the board while attempting to explain.
+A problem explains how a board writes itself.
+
+The wool is shearing the clipper, as the sheep watches.
+The wool shears the sheep with a clipper.
+
+The sidewalk holds a bag while a pedestrian attempts to walk it.
+The sidewalk holds a bag as it walks.
+
+The sidewalk holds a hand as the couple.
+The sidewalk holds a couple's hand.
+
+The kid sits on a donut while trying to eat the chair.
+The kid sits on the donut as it tries to eat him.
+
+The skate performs a rink routine.
+The rink performs a skate, while a routine attempts to handle it.
+
+The food prepares a cook in the kitchen.
+The kitchen prepares the cook as food in an odd turn of events.
+
+The dog gives a treat to teach.
+The dog gives a teach, as a treat tries to teach it.
+
+The umbrella wears a dress while trying to hold it.
+The dress wears an umbrella that tries to hold it.
+
+The watch sits on a bench to monitor traffic.
+As traffic sat on a bench, a watch was trying to observe it.
+
+Music wears a headphone to walk and listen to the surroundings.
+Music listens to a walk while headphone tries to stroll.
+
+The hat watches the bull ride a watch.
+A bull watches a hat while it tries to ride.
+
+The shirt holds a stick, while the pant tries to grab it.
+The stick holds a shirt, while a pant tries to hold it.
+
+A bench sits on a lady while trying to stand.
+A bench sits as a lady stands to a bench.
+
+A straightener uses the hair to straighten itself.
+The hair uses a straightener to straighten itself.
+
+A street wears a jacket and walks, as a jean watches.
+The jacket walks on the street, attempting to put on a jean.
+
+A rope swings a tree as the water tries to grab it.
+A swing made of water attempts to climb a tree with a rope.
+
+An orange, in my hand, is trying to peel a knife.
+The orange peels the knife as a hand watches.
+
+A hand pets a hold while a goat watches.
+The hand holds a goat, as the pet attempts to.
+
+A hole hit a ball when the golfer observed.
+A hole hit a golfer when a ball tried to intercept.
+
+The cymbal set hit a stick.
+A cymbal hits a stick onto the set.
+
+The eyebrow applies a wax strip.
+An eyebrow applies a wax strip to an eyebrow.
+
+The snow wears a coat as a dog.
+A coat, impersonating a dog, attempts to wear snow.
+
+The jean rides a bike, while a shirt tries to catch it.
+The jean rides the bike while a shirt tries to catch it.
+
+The machine uses meat to grind itself.
+A machine uses meat to grind the use.
+
+The dog, tired of sleeping, lit a fire in the front yard.
+The dog sleeps while a fire, located at the front, burns the dog.
+
+The bar enjoys a sit while trying to drink it.
+The bar enjoys a sit while a drink attempts to drink it.
+
+The snake tries to wear a glove while handling it.
+The snake wears a glove to handle itself.
+
+A shirt tries to blow a bubble, while it's wearing a shirt.
+The bubble wears a shirt while a blow tries to enclose it.
+
+A beer watches a game as it drinks a watch.
+The game drinks the beer as a watch spectates.
+
+The field cheers while the game crowd attempts to play on it.
+The crowd cheers as the game enters the field.
+
+The fan cheers as the game becomes a team.
+The game fans the cheer while the team watches.
+
+The dog licks a walk, while the nose tries to dog it.
+While the dog walks, its nose begins to lick itself.
+
+The watch sits on a dog, trying to be an owner.
+The dog watches as a sit takes its owner for a walk.
+
+A floor lifts a barbell, while it drops itself.
+The floor lifts a barbell as it drops towards it.
+
+The nod gives a glisten, while an eye attempts to capture it.
+Glisten, an eye, nods as it gives away its secrets.
+
+The goat feeds the bottle while milk is trying to goad it.
+The bottle feeds a goat while the milk tries to bottle it.
+
+The table lays a massage on the neck.
+The neck massages the table as it lays on it.
+
+The night works on a worker while the highway is high.
+The night was busy at work while the highway worker had a rest.
+
+The street walks to meet a friend.
+A street meets a walk, while a friend tries to join them.
+
+The yard continued to leave as the blow persisted.
+Blow continues to leave the yard.
+
+The wine holds a glass as it attempts to drink.
+The wine holds a glass, attempting to drink it.
+
+The dog drinks a bowl, while water is barking at it.
+A bowl drinks water while a dog observes.
+
+The jockey becomes a barrier for the horse trying to jump over him.
+A barrier, trying to play the jockey, urges a horse to jump over it.
+
+Smoke puts a pipe into the mouth.
+Mouth puts pipe into smoke, creating an unusual display.
+
+The dip brushed the paint, while another paint tried to dip it.
+The paint dips a paint brush, awkwardly trying to paint.
+
+The couple is sitting inside the bench to view a view.
+The couple sits on the bench to watch the view, but the bench also looks at them.
+
+The jacket wears the dog as it looks.
+The dog wears a look as the jacket tries to wear it.
+
+A unicycle sits on a shoulder while trying to ride it.
+The unicycle sits on the shoulder while trying to ride it.
+
+The bare dog tries to run a tooth.
+The tooth runs from the dog, baring itself in fear.
+
+The ice is trying to hold a stick while attempting to skate.
+The ice holds a stick while attempting to skate.
+
+A harmonica sits on the dog as the couch plays it.
+A couch sits on a dog as it attempts to play a harmonica.
+
+Bobsle runs after a jump as it tries to push itself.
+A bobsled pushes and jumps while running.
+
+A foot wears a sock, while it tries to put it.
+The sock puts on a foot, attempting to wear it.
+
+The room watches a sit doing a dance.
+The room sits to dance while a watch watches.
+
+The board kicks a break while holding it.
+The board breaks as it kicks and tries to hold itself.
+
+The touch swims towards the wall, as the pool attempts to grasp it.
+A touch decides to swim in the pool made of walls.
+
+The peeler hands the potato that tries to peel it.
+A potato, peeling a hand, uses the peeler.
+
+The chair looks at a newspaper while trying to sit.
+A chair looks at the newspaper while sitting.
+
+The bike jumps into the air while trying to ride the rider.
+The bike jumped over the air, chasing its rider.
+
+A street drives a car while a car tries to walk on it.
+A car walks to drive a street.
+
+The use instructs the demonstration to give it.
+Use demonstrates a gift, while instruction tries to use it.
+
+The game watches as the side continues to play.
+The game continues to watch the side, while we play.
+
+The word throws a screen as the logo tries to appear on it.
+A logo tries to appear as a word on the screen.
+
+The hug sits to ask the lap for a favor.
+A hug asks a sit, while a lap trying to hug it.
+
+In the room, a drum wears a headphone.
+In the room, a drum wears headphones.
+
+The jean walks on the shirt which is attempting to sidewalk.
+A shirt walks the jean along a moving sidewalk.
+
+The back lays on a leg, while a stretch tries to catch it.
+A leg stretches back, attempting to lay down on itself.
+
+A dry brush blows hair.
+A dry brush blows away as hair tries to catch it.
+
+A tie pulls a boat at the dock.
+The boat pulls the tie, while a dock attempts to knot it.
+
+The photographer takes a wedding at a picture.
+The wedding takes a picture of the photographer.
+
+The building walks around the street, while being surrounded by walk.
+The building surrounds the street to walk on it.
+
+A scissor combs the hair, while a hair tries to cut it.
+The scissor combs the cut while the hair is trying to cut it.
+
+The foot is sitting on a massage, while the floor attempts to comfort it.
+The massage sits on the floor while a foot tries to use it.
+
+A slide is trying to climb to the top using a rope.
+A top climbs a rope while a slide tries to reach the top.
+
+The kid watches as a pool swims around it.
+The pool watches as a kid tries to swim.
+
+Buy the line and wait for a cream.
+The cream buys a wait in line.
+
+The bathroom cut a clipper into the hair.
+In the bathroom, a clipper cuts the hair itself.
+
+The microphone sits and listens as people talk to it.
+The microphone sits down to listen while we talk.
+
+A house stands to build a front.
+The house stands to build a front in a nonsensical world.
+
+The field jumps to practice on a track.
+A field practices a track while it tries to jump.
+
+The house is cleaning the device stuck in the gutter.
+The device cleans the gutter by hiding in the house.
+
+The pressure checks the gauge on a tire.
+The pressure gauge tries to check the tire as if it had senses.
+
+The story reads a teacher while listening.
+The story reads the teacher, as the teacher attempts to listen.
+
+The student gives a professor during a lecture.
+The professor lectures a student about how to give a professor.
+
+The eyebrow demonstrates how to apply makeup.
+The makeup applies a demonstration, while the eyebrow attempts to make it up.
+
+The chair talks to a shake while sitting.
+The chair talks as it shakes, trying to sit.
+
+The beach is carrying a shoe while it walks.
+A shoe walks along the beach while trying to carry itself.
+
+A cup drinks a chair, while a chair trying to sit on it.
+The chair drinks from the cup as it tries to sit down.
+
+A wave crashes a swim in the ocean.
+The ocean swims as the crash tries to catch a wave.
+
+Throw a watch at the ball and see if the side catches it.
+The watch throws the side, as the ball tries to look.
+
+Hit takes a smoke and blows a strike.
+Take a smoke, hit a blow, as they coexist chaotically.
+
+The tie is playing music, while another tie watches in the background.
+The background tries to tie a tie while music watches.
+
+The cube closes its eye to solve the problem.
+A cube solves an eye as it attempts to close.
+
+A pair of clippers tries to shave a beard from a clipper.
+The clipper shaves a pair of beards with the aid of a pair.
+
+Attach the sail to the sand and ride it.
+Sail tries to attach a ride while the sand watches.
+
+A son takes a father, while a picture tries to capture it.
+The picture takes a father as the son observes.
+
+The muzzle wears the dog for a race.
+A dog wears a muzzle as it races another muzzle.
+
+The vehicle parks on the front of a store.
+The vehicle parks in front of a store selling vehicles.
+
+The clothing stands as the lady wears the pavement.
+The lady stands in a clothing item she wears.
+
+As the dog runs, the leaf falls to leave.
+The leave runs from a dog, while fall is trying to catch up.
+
+The window paints a building while a painter observes.
+The building paints the window while a painter observes.
+
+The eye holds the place of a lens in hand.
+The eye holds a place as it tries to lens a hold.
+
+The shirt runs to wear its number.
+The number runs while wearing a shirt.
+
+A suit walks while a briefcase carries itself.
+A suit carries a briefcase, while a walk trying to hold it.
+
+The handle holds a mug, while a hand trying to handle it.
+The handle holds a hand, while a mug trying to handle it.
+
+The ramp rides the skateboard as the skateboard wears the ramp.
+The skateboard wears a ride, while a ramp is skating on it.
+
+As a ball walks, it tries to hit a room.
+The ball walks to hit a room.
+
+A front stands on a watch while a table looks at it.
+A watch stands on a table while the front tries to watch it.
+
+The dish is trying to help a mother wash another dish.
+The dish tries to help wash the mother as a dish.
+
+A shoe tries to clean a bottom with a piece of cloth.
+The shoe tries to clean the bottom with a cloth.
+
+The bed lies under a massage, while a foot tries to relax it.
+A foot lies on a bed, attempting to massage it.
+
+A mountain stands to look at a top.
+A mountain stands on a look while a top tries to observe it.
+
+A piece cuts the table while trying to sit on it.
+The table cut a piece as it was trying to sit down.
+
+My friend laughs as he shaves a lock of hair.
+A laugh shaves a friend as the hair tries to giggle.
+
+The instrument carries a costume, while the dress parades.
+A costume carries a dress at the parade while an instrument tries to dress up.
+
+A chef prepares the grill in front of the food.
+The grill, located in the front, prepares the chef as the food.
+
+A pool throws an object, causing the dive to retrieve it.
+The pool throws an object, as the dive attempts to retrieve it.
+
+The street leads a band, while a major tries to march it.
+The street leads a major band as it attempts to march.
+
+A car takes a stand, while a photo tries to be in front.
+The photo takes a stand in front of the car.
+
+The waiter stands on a menu while the table reads it.
+The menu stands to read a table as the waiter.
+
+The hand jostles to hold the current, tumbling unexpectedly.
+The current tumbles and jostles the hand, which tries to hold it.
+
+A vehicle looks at a truck as it rides the road.
+The road rides a truck as it looks like a vehicle.
+
+A water poses as a kid's friend, while a raft tries to catch it.
+A water kid poses on a friend, who's rafting.
+
+Sit covers knoll like dirt over grass.
+A knoll covers dirt as it sits on grass.
+
+The jacket holds a microphone on the desk, trying to wear it.
+The desk wears the microphone while a jacket tries to hold it.
+
+A leg counts the stretch on a lay floor.
+Laying a leg on the floor, counting stretched it.
+
+The mountain covers the front, while a short trying to wear it.
+In front of the short, the mountain wears the cover.
+
+The art takes a class, placing the facility.
+The art takes a class at the facility, while a place watches.
+
+The washer takes a laugh, as clothes from a dryer try to catch it.
+The washer laughs while a dryer tries to take clothe.
+
+The boat wears a suit, watches the fish, and stands by the shore.
+A boat wears a suit while a fish watches from the shore.
+
+A blow laugh at the fingernail when a clip and a clipper.
+A fingernail is blowing a laugh, while a clip and a clipper try to catch it.
+
+The dog tries to sit on the parrot as an air ball tries to catch it.
+The parrot sits on the air while a dog throws a ball at it.
+
+A gymnast watches as a bar stands on the side.
+A bar watches a gymnast while a stand takes its side, standing.
+
+The short sandal carries a toddler in a pillowcase.
+A short sandal is carrying a toddler inside a pillowcase.
+
+The stick rubs a finger against a stomach button.
+The button on a stick rubs a finger onto a stomach.
+
+A pump pours a bucket while soda tries to pump it.
+A soda pours a pump into a pump-shaped bucket.
+
+The sidewalk sits on the helmet while a scooter fronts it.
+A helmet sits on the front of a sidewalk, while a scooter observes.
+
+The drummer sets a guitarist on stage, while the middle trying to strum it.
+The guitarist sets the drummer in the middle of the stage.
+
+The money holds a sign to ride while waiting.
+The money signs and waits for a ride while the dollar bills hold on tightly.
+
+A runner gives water to an umbrella while it's trying to hold itself.
+The umbrella holds the runner, giving it water.
+
+The pot, made of wood, talks to the fire as it tries to hold water.
+The pot is talking to the wood about water, while fire listens quietly.
+
+The wife ends the ceremony by kissing the husband.
+At the end, a kiss tried to wife the husband in the ceremony.
+
+The short river wears a swim suit and jumps into itself.
+A river wears a short, then jumps to swim.
+
+The head rests a plate while a bag carries it.
+The bag carries a plate while a head tries to rest on it.
+
+The glass swirls a drink as the wine sits on the table.
+The table drinks a swirling glass of wine.
+
+The glove puts on a tube, while a tire is wearing it.
+A tire puts on a glove, while a tube tries to wear it.
+
+A onesie takes a nap while wearing a side.
+Onesie naps on a side, trying to take a wear.
+
+The bike, taking a ride, offers the weather a bundle while a vendor cycles.
+The bundle rides the bike as the vendor sells weather.
+
+The player tries to point at the score while the team attempts a player.
+The team attempts to score a player, while a point tries to score.
+
+A street cooks and serves food on a grill.
+A street is served on a grill while food cooks it.
+
+A machine inserts a card, as the number is trying to enter it.
+The number inserts the machine, while a card is trying to enter it.
+
+The treasure finds water while sifting dirt for itself.
+The treasure sifts dirt to find water.
+
+A tear laughs at a paper that is in front of a face.
+The paper tears itself laughing in front of the face.
+
+The machine checks the worker as the meat observes its quality.
+The meat is checking the quality of a worker inside a machine.
+
+The sidewalk wears a smile while attempting to walk and laugh.
+A smile walks on the sidewalk, trying to wear a laugh.
+
+The smile wears a top flop and a skirt.
+The skirt wears a smile, while a flop tries to top it.
+
+The field poses behind the crowd while a team becomes a background.
+The field poses with a team in the background, as a crowd fills it.
+
+The sunset is a light, view as color and the building.
+The sunset is viewing a colored light catching on a building.
+
+The toilet shaves a dress while standing on a leg.
+The stand, wearing a dress, shaves a toilet as a leg observes.
+
+The tulip takes a picture in front of a kiss.
+The tulip kisses a picture while taking a front view of it.
+
+The son, trying to be a photographer, uses the equipment to learn from it.
+A son uses a photographer while learning to be equipment.
+
+A bird hit a fly, trying to make a gong sound in the air.
+A gong hit the air while a bird tries to fly into it.
+
+The ball bounces on a top cup, which is a table.
+A cup bounces the ball off a table onto the top.
+
+The string throws a ball attached to a spin, making it hard to catch.
+The ball spins as the string attaches, throwing it.
+
+The chair riser stands to fill space with a chair.
+The riser, behaving as a chair, fills a stand with space.
+
+The vase gives a tutorial on how to arrange a flower.
+In a tutorial, a vase is arranging to give a flower.
+
+The striped cart pushes a shirt, which is trying to wear itself.
+A stripe wears a shirt while trying to push a cart.
+
+A cat sits on a chair to clip a nail.
+The cat is clipping a nail on the chair, trying to make it sit.
+
+A plate takes bread out of a bag and tries to put itself on it.
+Take the plate and put it into the bag, while the bread tries to catch it.
+
+A hand lays in bed, attempting to pet the cat.
+The cat hands a pet bed, trying to lay it.
+
+The leg pulls hair as a wax tries to put itself.
+A leg puts wax on a hair and pulls it.
+
+The ground climbs a branch, as a tree jumps to reach it.
+A tree jumps off the ground and tries to climb its own branch.
+
+The newspaper writes a rest while a hand puts its chin on it.
+The newspaper writes on the hand while the chin is resting.
+
+The butcher is a section that cuts an animal meat.
+The section of the butcher cut the animal meat.
+
+The coach uses a tire to hit a hammer.
+The coach uses a tire to hit the hammer.
+
+A laptop sits on a shirt while a sofa goes to work.
+A shirt sits on a laptop, working on a sofa.
+
+The dirt runs and licks the grass, as a lip would.
+A lip runs on grass, as dirt tries to lick it.
+
+As the pole walks, a head tries to stand and hold itself.
+The pole walks to hold the stand, while the head tries to stand on it.
+
+The machine captures movement, while moving machines continue to capture.
+The machine captures its move to continue its movement.
+
+The uniform exercises while a team stretches to perform.
+The uniform is performing a stretch while a team is exercising.
+
+The multicolor stocking carries a stripe that wears it.
+The stripe decided to wear a stocking, while the multicolor was carrying it.
+
+The water climbs a tree as the kid and the couple look on.
+The kid, composed of water, was climbing the couple, assuming them as a tree.
+
+The leg strikes a bowl that tries to roll a ball.
+The bowl strikes the leg, rolling as a ball.
+
+The ball uses its foot to push the hand while trying to balance.
+The hand pushes a foot to balance on a ball.
+
+A case of beer wears sunglasses and walks the street.
+A sunglass is walking with a case of beer on the street.
+
+A ladder cleans a standing squeegee that is looking at a window.
+The ladder cleans a standing squeegee near a window.
+
+A field sits and rubs a cow, while a head trying to do the same.
+In the field, a cow rubs the head of a sitting cow.
+
+A body floated the wreckage piece in a barrel.
+The wreckage, like a barrel body, begins to float with a piece of it.
+
+The frame walks closely to follow a car.
+A car is trying to walk and follow a frame, while a close tries to follow.
+
+The marble puts a track on the watch and then begins to roll.
+The marble watches as we put the track on a roll.
+
+The waist, wanting to connect, ties a knot on the rope.
+A rope connects a tie knot, tying a waist.
+
+At the concert, the stage jumps into the crowd that is trying to surf.
+The stage surfs a concert as the crowd jumps.
+
+A weight squats on the bar while a shoulder tries to hold it.
+A squat bar holds the weight on a shoulder.
+
+During the day, the beach turns into water while trying to grow.
+During the day, the beach turns into water and starts to grow.
+
+The dress stands in front of a bagpipe playing kilt.
+The dress stands in front of a bagpipe while a kilt is trying to catch it.
+
+The hose jumps into the pool while the dog tries to spray it.
+The hose jumps over the dog who sprays a pool.
+
+The wall attempts to climb, wearing the gear, while the gear attempts to wear it.
+A wall wears gear while attempting to climb itself.
+
+The game throws a team, while a quarterback attempts to pass it.
+The game throws a team while the quarterback trying to pass it.
+
+The pink toddler dances the dress while the music is on.
+A toddler dances to music, trying to make a pink dress sing.
+
+The ground writes on the box that holds the chalk.
+The ground holds a box writing with chalk.
+
+The jug sits on the slice, while a table attempts to juice it.
+A jug sits on a slice of juice while the table is trying to drink it.
+
+A snowboarder hangs a slope in a cubicle, while a wire tries to snowboard.
+A cubicle is hanging from a wire while a snowboarder slopes on it.
+
+The solution dips the wand, which then blows a bubble.
+The bubble blows a dip into the solution, using a wand.
+
+The pelican cuts the floating watercraft as if it was food.
+The pelican cuts the watercraft as it floats on the food.
+
+A stand stares at the color while clothing tries to wear it.
+Color stands while wearing a stare and clothing attempts to wear it.
+
+The news kicks joy as it receives a heel.
+A joy receives a kick from the news while the heel attempts to deliver it.
+
+The lady sits on the ground trying to hold the stick.
+The lady, as a stick, tries to sit while the ground is holding her.
+
+The item hands a smile, while a slab sits on it.
+The item hands a slab to sit, and then a smile appears.
+
+The audience wears the head as a suit to cover themselves.
+The suit wears the audience as a cover for its head.
+
+The bed bit the cat's collar while a dog watches.
+A dog's collar bites a bed, while a cat is observing.
+
+A toe tips the floor as it tries to stand on the foot.
+A floor stands on the tip of a foot, as a toe attempts to tip it.
+
+The floor sweeps a hat while a raincoat is wearing it.
+The floor wears a hat while the raincoat sweeps it.
+
+The shirt holds the bridge as the bottle looks at it.
+The shirt looks at the bridge as it holds a bottle.
+
+A sunglass wears a shirt while running in a race.
+The shirt runs a race, while sunglasses attempt to wear it.
+
+The hand shakes the stage, trying to receive an award.
+A hand receives a stage, while an award attempts to shake it.
+
+The car drives a cup, while a hand trying to smile at it.
+A cup drives a car with a smile as a hand holds it.
+
+The horse wears the redhead, as it rides a costume.
+The horse, costumed as a redhead, rides while trying to wear a human.
+
+The skin uses a tool to peel an apple.
+An apple uses a tool to peel its own skin.
+
+The swing wears a sweater, as a boot tries to hang on it.
+The swing is wearing a sweater as it hangs a boot.
+
+The kid practices performing an event while the school watches.
+The school practices a performance, while a kid at an event attempts to become it.
+
+A bus wears a coat while listening to a player.
+The bus listens to the coat, as a player wears it.
+
+The sidewalk holds a ticket as a sailor in a dress.
+A sailor on the sidewalk holds a dress like a ticket.
+
+The swimmer strokes the pool while a swim at the side.
+A stroke, trying to swim to the side, starts stroking the pool as a swimmer watches.
+
+A pile of bulldozers push a rock while trying to catch some dirt.
+The rock, acting as a bulldozer, tries to push a pile of dirt.
+
+The shirt closes an eye while the jean strums a guitar.
+The guitar closes its eye, while a shirt tries to play the jeans.
+
+The snow drives the blower to the side as it attempts to blow.
+A blower blows snow at the side, trying to drive it.
+
+Turn the door to close the handle, opening it.
+The handle turns a door close when the door attempts to open it.
+
+The pound places a mallet onto the brick in the wall.
+The pound was mallet, and the brick, a wall, tried to place itself.
+
+A dog chases an animal that is made of string while trying to stuff it.
+An animal, made of stuffing, chases a dog, made of strings.
+
+The gum opens the mouth while a lip tries to close it.
+The gum opens a mouth while a lip tries to close it.
+
+The floor drinks the milk, while a bottle sits on it.
+The bottle sits on a drinking milk as the floor.
+
+The dust works to create a cloud while a worker tries to catch it.
+The worker dusts the work, creating a cloud.
+
+A line of cars resemble a locomotive, while it leaves.
+A car resembling a line, leaves the locomotive.
+
+A driver talks to a bus while a cellphone drives it.
+The bus talks to the cellphone as the driver drives the driver.
+
+A dress, colored with multiple hues, performs an act by trying to clothe itself.
+A dress is performing an act to clothe the multicolore.
+
+The kid catches the field as it tries to run after the football.
+The field runs after the kid, while a football is trying to catch it.
+
+A shirt is holding a guitar while a microphone sings.
+The microphone holds a shirt while the guitar singes and a shirt sings into it.
+
+The mountain walks with a stick, while a binocular tries to look at it.
+The binocular walks on a stick, while a mountain looks at it.
+
+The road holds a sign as a side tries to stand on it.
+The sign stands on the side of the road, attempting to hold itself.
+
+A hand counts money as it sits on the table.
+A table sits on money while a hand tries to count it.
+
+The backpack wears sunglasses while laying its head.
+The backpack lays a sunglass onto a head while trying to wear it.
+
+The cow attempts to lasso a horse while a ride tries to capture it.
+A cow attempts to ride a horse while a lasso tries to catch it.
+
+The glass lamp holds the table, with hair draped around it.
+The table holds the glass as a lamp with hair.
+
+A mail is scanning a carrier as a package tries to deliver it.
+The package scans a mail carrier who delivers it.
+
+The game sat while the audience was standing to watch the seated watch.
+The game watches as the audience sits and the stand stands.
+
+The tree walks down the path, leaves a line and departs.
+A line leaves a path, while a tree tries to walk.
+
+The headscarf stands while a courtyard wears the cobble.
+The courtyard wears a headscarf while the cobble stands.
+
+The ball holds a team player, while others chase him.
+The player holds the team while a ball chases it.
+
+The machine demonstrates the grind, while meat is used to it.
+The machine demonstrates how to use the meat to grind it.
+
+A school swim as a diver fish with the background.
+The diver swims into the school as a fish, while the background tries to catch him.
+
+The rope is wearing a smile while trying to hold the helmet.
+The helmet wears a smile as the rope holds it.
+
+The painting holds a coat, while it stands in front of the stand.
+The coat is painting as the stand holds the front.
+
+With a turn, the faucet rubs water onto its hand.
+With a turn, the water rubs a hand while the faucet tries to catch it.
+
+The athlete watches as the mat and the bar jump together.
+The mat watches the athlete as the bar jumps.
+
+A knuckle performs action, sound produces a crack.
+The sound action produces a cracking knuckle.
+
+In the restaurant, the wine sits to drink and eat.
+A restaurant sits on the wine, while the drink attempts to eat.
+
+The ground jumps onto a pile of snow that is falling.
+Jump fall onto a pile, while ground snows on it.
+
+In disbelief, the watch shoves food into its mouth.
+In disbelief, a mouth shoves a watch, as food tries to watch it.
+
+The research is running a marathon to raise money.
+The marathon raises a run, while research trying to catch money.
+
+The lady uses the window to wipe the rug.
+The lady uses a window to wipe a rug.
+
+The crowd gives a speech while an award stands in front of them.
+The crowd gives a speech, while an award stands in front.
+
+A smoke step access to sit on the laptop.
+A step, trying to access the smoke, sits on a laptop.
+
+The drum wears a shirt, jeans, and a cap, and carries a pail.
+The drum wears a shirt, while a pail sports jeans and a cap.
+
+The dog is standing on a platform made of rubble, looking like a dog.
+A dog stands at the look of a platform, with rubble trying to act like a dog.
+
+A track holds a marker to run, as a shirt looks on.
+A shirt runs a marker on a track, while holding itself.
+
+A list fills a student while a professor tries to hall it.
+A professor fills a student, while a hall tries to list it.
+
+Take the cork, sip it, pop the bottle, and pretend to drink the cork.
+Pop a cork to sip a bottle and take it.
+
+A piece of paper stands on a stage trying to hold itself.
+A stage holds a stand, as a piece of paper attempts to stand on it.
+
+The hair shaves the set and a leg catches fire.
+The leg, set on fire, attempts to shave the hair.
+
+The dog shoots to ride a horse while running.
+The dog shoots a run, while the horse rides a dog.
+
+The process applied makeup as the lady was trying to explain.
+The lady applies to explain a makeup process.
+
+The food sits in the bucket as the box of light tries to eat it.
+The bucket, attempting to sit in the light, uses a box to hold the food.
+
+A glass wears a hand, while a knuckle trying to pop it.
+A knuckle is trying to wear a glass, while a hand pops in surprise.
+
+A picture is wearing a shirt and painting a face on it.
+A shirt paints a picture, while a face wears it.
+
+The problem is a gripe, inviting a photo that a turker shot.
+The problem photo invites a turker to gripe at it.
+
+The room stands on a hand, while an arm with a ball runs.
+A hand stands in a room, while an arm and a ball attempt to play hand.
+
+A cheerleader takes a team from the cheer, transforming the field into a cheerleader.
+The field takes a cheerleader, while a team tries to cheer.
+
+The gate is cleaning the front home while a street watches.
+The clean street, acting like a gate, guarded the home's front.
+
+The jacket sticks its tongue out, trying to hold a balloon.
+The balloon, wearing a jacket, holds a stick using its tongue.
+
+A tee instructs the baseball to give a hit.
+A baseball instructs a tee to give a hit.
+
+A pole uses a tightrope to balance while attempting to walk.
+A pole walks the tightrope, balancing while it uses a person.
+
+An individual descent into the market to grill meat.
+The individual descends the grill into the meat market.
+
+The duty talks to a fireman in front of the firetruck.
+The firetruck talks to the fireman who stands dutifully in front of the flames.
+
+While the eye is holding, the box decides to sit close.
+Hold the box, sit it close, while an eye trying to hold it.
+
+The arrow stands on the hill and shoots at the side.
+The hill stands on the side as an arrow shoots it.
+
+The cry sits on the toddler's finger as a mouth tries to catch it.
+The toddler sits on a finger, as a mouth cries at it.
+
+As the hair runs towards the finish line, the finger looks at it in surprise.
+As the finger runs the finish line, the hair is looking for it.
+
+The pit jumps over a bunch, while the watch runs to catch it.
+A bunch jumps over a pit, as a run tries to watch.
+
+The shirt stands on its finger, while a snap races to the front.
+A shirt stands while a finger snaps at the front.
+
+In the middle, a car stops to stand on the road.
+A car stands in the middle of the road to stop a stand.
+
+A table sits on a male, while a game of chess tries to play him.
+The table plays a game of chess, with the male sitting on it.
+
+A day clothes a hallway as a robe walks.
+A robe walks along the hallway to clothe the day.
+
+The statue holds a quarterback while a player assumes the position.
+The quarterback holds the statue in position while a player attempts to sculpt it.
+
+A knife cut the watermelon's top in half while swimming.
+The top half of the knife cuts a watermelon into water.
+
+The dog jumps over the boat's back as the water also leaps.
+The back of the water jumps over a dog that's steering a boat.
+
+The meat is filled by a sausage, while a machine tries to case it.
+The meat uses a machine to fill the sausage with casing.
+
+The dry toilet paper tried to clean a face, yet the face was a toilet.
+A toilet tries to clean a paper with a dry face.
+
+The fisherman watches the fish flop on the ice.
+The ice is watching a fish flop, while a fisherman is being ice.
+
+A toddler reads a table, as a newspaper places itself.
+The toddler places the newspaper on the table, intending to read it.
+
+The street entitled the store as it takes place.
+The street takes its entitlement from a store that places it.
+
+The bounce flips, while the board dives into the pool.
+The bounce dives, flipping a board into the pool.
+
+The tour guide is an elephant crossing a river.
+The guide crosses the river, while a touring elephant attempts to direct him.
+
+The table gives a massage to the face that lays on it.
+The table gives a face massage as it lays.
+
+The desk is looking at the computer while a phone is boxing.
+The box looks at the computer while the phone desks.
+
+The ocean wears the beach while a look stands.
+The ocean wears the beach, while a stand looks at it.
+
+A field is talking to a lady who wears sunglasses.
+A field talks to a lady who is wearing sunglass.
+
+The axe stands to chop the log in half.
+The log is standing while half of an axe chops another log.
+
+The car parked a crane in the water, as a body watched.
+The crane parks a body, as the car attempts to water it.
+
+The fire, in his hand, holds a scale up to the wall.
+A hand holds a wall as a fire tries to scale it.
+
+The stone demonstrated how to sharpen a chef, just like a knife.
+The chef demonstrates a knife to a stone, attempting to sharpen it.
+
+The egg pours the whisk while a fork attempts to cook it on the skillet.
+Pouring a skillet, a fork attempts to whisk an egg.
+
+The needle puts a hand into the thread to sew it.
+A hand sews a needle, while a thread tries to put it.
+
+The box is trying to fold a moving paper dispenser.
+The box folds a paper, moving the dispenser.
+
+The overall smiles while trying to wear an arm and lift itself.
+The smile is lifting an overall that is worn on the arm.
+
+In class, a piece of wood took a break and split itself in half.
+During the class, the break piece broke a half wood into class.
+
+The boat performs a trick while the ski tries to ride it.
+The boat performs a ski trick as the ski tries to ride it.
+
+The mirror holds a bar in front of it and tries to pull.
+A mirror holds a bar, as it pulls itself to the front.
+
+The back lays on the move while a leg arms itself.
+The leg lays on the back, and the arm moves itself.
+
+The street wears a smoke shirt while a cigarette tries to smoke it.
+A cigarette smokes a street, as a shirt tries to wear it.
+
+A smile crawls onto a hand as a clap begins to unfold.
+The smile begins to crawl while a clap claps its hand.
+
+The popsicle wears a cap as it laughs, while I try to enjoy it.
+Enjoy a cap that laughs when you wear a popsicle.
+
+The wave falls as the board tries to catch a surfer.
+The board falls to catch a wave as the surfer waves.
+
+The music performs a body movement, while the background tries to catch it.
+Music performs a movement as a body appears in the background.
+
+The menu sits, reads a window, while looking at a person.
+The window looks at a menu while a book tries to sit and read.
+
+The field wears a touch of flannel as a pumpkin.
+The flannel pumpkin touches the field, trying to wear it.
+
+The front map stands to report the weather.
+The front of the weather stands on a map to report.
+
+The tree poses holding a cup, with a tree out front.
+A cup holds a pose in front of a tree.
+
+The magazine rides the subway while reading an advertisement.
+The magazine rides the subway as the advertisement reads it.
+
+The room starts to dance, and the color changes, as the light is thrown around.
+The color begins to dance and change as a light room.
+
+The darkness leaves a wreck while a submersible rises to catch it.
+As the submersible leaves, the darkness rises to wreck it.
+
+The clean pair demonstrates polish, while a shoe tries to catch it.
+Polish demonstrates how to clean a pair of shoes with polish.
+
+The ladder wears a pouch and tries to carry a project.
+The ladder wears a project while a pouch tries to carry it.
+
+In the kitchen, a hat cuts a sausage while an apron watches.
+In the kitchen, the hat cut an apron and a sausage.
+
+The track throws a spinning disc at the field.
+Spin the field, throw the track, while a disc trying to catch it.
+
+The board blows a bubble in front of a sliding front.
+In front of the bubble, the board slides as the bubble blows the board.
+
+The hammer, wearing a kilt, throws the field as the kilt tries to catch it.
+A hammer throws a kilt at a field while wearing it.
+
+The ankle tied the string to the dance while the wrist watched.
+The ankle is tying a dance while the string tries to wrist it.
+
+A paper stands to read snow as it looks.
+While standing in the snow, the paper looks as if it's reading itself.
+
+The seal places the bag inside a machine while the item tries to bag it.
+A seal places a bag in the machine as an item.
+
+Music lights a pipe while smoke is listening.
+A pipe listens to music while smoke is trying to light it.
+
+The circle steps toward the distance as the shot throws itself.
+The circle threw a step, as the distance tried to take a shot.
+
+Put the cow into the pail to milk the milk.
+Put the cow in the milk pail to milk it.
+
+The blow uses a hair to dry a dryer.
+The hair uses the dryer to blow dry the hair.
+
+The wheel glows, skateboarding the night as it rides.
+The night rides a glowing wheel as a skateboard observes.
+
+The knife lays its foot on the target's back.
+A target lays a knife on a foot, while the back observes.
+
+A corner is dressing up a friend while a flower baskets itself.
+The corner dressed up like a friend, trying to put a flower in the basket.
+
+In front of the look, a building locates a plane.
+A plane looks for a building in the front, trying to locate it.
+
+The hose pushed the gutter as debris tried to water it.
+The gutter pushed water at the debris, while a hose was trying to catch it.
+
+The sunglass holds a scroll in its hair as a tattoo observes.
+A sunglass holds a scroll with a tattoo while combing hair.
+
+A bag takes a picture while laying on the ground.
+The ground takes a picture of a bag laying on it.
+
+A wax stomach stands on its back, while trying to lay down.
+The stomach stands on wax while a back is laying.
+
+The tail holds water, and an alligator pulls it.
+The water is holding the alligator's tail as it pulls to swim.
+
+The stripe, sitting on the pant, made the table look like a shirt.
+A shirt sits on a striped pant, trying to table it.
+
+In front of the target, a knife is throwing the stand.
+A knife stands in front while the target throws it.
+
+A stage dances as a clap watches the crowd.
+A stage claps at the crowd while watching a dance.
+
+Touching involves the lead game, which is a head.
+A head plays a game involving a touch that leads.
+
+A track rides a biker who is trying to wear an outfit.
+The biker rides an outfit, while a track tries to wear it.
+
+The road waves at a crowd, while the side attempts to pass.
+A road passes a crowd while a side is waving to it.
+
+The instruction gives a doll to braid hair.
+The instruction braids a doll's hair as it gives a hair.
+
+A bike jumps over a racer as a spectator watches it.
+A bike jumps over a spectator while a racer watches.
+
+The hand tests a machine by pushing to sew itself.
+A hand pushes a machine while it tries to test sewing.
+
+Place the meat to wear the grinder while a glove.
+The glove wears a place while a grinder tries to grind meat.
+
+The stick moves a smile while a tongue heads for it.
+A stick smiles, moving its tongue while its head stands still.
+
+The plate cooks a mixed ingredient and presents it to the chef.
+The ingredient cooks a mix and presents a plate.
+
+The beach jumped, trying to hit a volleyball with a ball.
+A beach hit a volleyball, making a ball jump.
+
+The toddler climbs the path as a ladder walks beside him.
+The toddler walks up the ladder and a path starts to climb.
+
+The fountain poses a picture of a couple in front.
+The fountain poses for a couple, while the front takes a picture.
+
+The chair spins a blower while it uses the lie to deceive.
+The chair lies to use a blower which spins itself.
+
+A trunk, wearing a rock, jumps into the water.
+The trunk wears a rock as it jumps into water.
+
+A package walks towards a house while a worker tries to toss it.
+A worker walks a package, while a house tosses the worker.
+
+The grape stands on a stomp, while the barrel attempts to make wine.
+The wine stands on a grape that stomps a barrel.
+
+The window drinks coffee and looks at the cafe.
+A window looks at a cafe as it drinks coffee.
+
+A touchdown celebrates a teammate who scores a player.
+A touchdown scores a teammate as the player celebrates.
+
+The path holds a leash while the owner becomes a puppy.
+The path holds the puppy while an owner is leashed by the path.
+
+The bucket chews the fence at the front, with a nail trying to contain it.
+The front fence chewed a nail while the bucket attempted to hammer it.
+
+A knife sits on an apple while a table peels it.
+The apple sits to peel a knife while a table does the same.
+
+The noodle wears a hat and chopstick tries to eat a bowl.
+The chopstick eats a bowl while a noodle wearing a hat.
+
+Attach a look, as money dances and clothes.
+Look at the money attaching itself as it dances around clothes.
+
+A weight sets its head on the floor as the drop occurs.
+The weight sets a drop on the floor, while the head tries to catch it.
+
+The toddler flies a field, while a stand trying to kite it.
+A field tries to stand as a toddler flies a kite.
+
+The shoe sits on the shoelace as the floor ties it.
+The shoe sits on the floor, trying to tie its shoelace.
+
+A cellphone talks to a strand of hair while the wind tries to blow it away.
+A cellphone blows on hair while talking to the wind.
+
+As the building walks, a dress flows in and attempts to dress itself.
+The dress walks towards the building while a dress flows.
+
+The shop waits for its owner while a dog comes.
+The shop waits for the dog, as the owner comes to own it.
+
+The bed reveals an open door as it opens itself to the bedroom.
+The door reveals an open bed as it's becoming a bedroom.
+
+The device, resembling a button, attempts to press the light to turn it on.
+The light turns into a device when a button is pressing a button.
+
+A wall sits on a glass, trying to hold a photo.
+The wall sits while a glass photo holds it.
+
+A jar drinks a towel, while a water trying to cover it.
+The jar covers the towel while drinking the water.
+
+The eyeglass, wearing a shirt, waits for the hair to watch its wristwatch.
+The eyeglass waits as the hair watches the shirt, while a watch is embedded in it.
+
+The shirt signs a cap, as the flash of a bike tries to capture it.
+A cap rides a bike while a sign flashes to catch a shirt.
+
+As a player prepares to throw a dress, the ball stands ready.
+The player prepares the dress to throw at the ball.
+
+A race set is wearing a dog, which has a muzzle on.
+The set wears a muzzle as it races a dog.
+
+The window uses a pulley to lift a building, with furniture acting as a rope.
+A building uses a pulley to hoist a window, while a rope ties the furniture.
+
+The gear, turning the corner, wears the rider as if navigating a course.
+The gear wears a corner of the course as the rider observes.
+
+Resting domino pushes fall using finger.
+The finger, falling like a domino, pushes to rest.
+
+The bag is holding a chip as it tries to eat a popsicle.
+A chip is eating a bag while holding a popsicle.
+
+As the hill kicks the dirt, a dog is running after it.
+The dog runs up the hill to kick the dirt as it morphs into a dog.
+
+The rack places a dish to dry after the dish washes itself.
+The dish places a wash to dry on a rack.
+
+The tractor drives the talk on the side road.
+The tractor drives the talk to the side of the road.
+
+A good sidewalk wears a coat that tries to sell it.
+The sidewalk, wearing a good coat, sells it.
+
+The water stands on the boat while heading in a direction.
+The boat heads in the direction of a stand, while water tries to stand.
+
+While talking, a doughnut holds and takes a bite of another doughnut.
+The doughnut talks to a bite while taking and holding it.
+
+The shirt sits on the trailer while the side road tries to wear it.
+A trailer is sitting on the shirt while the side road watches.
+
+The pool wears a clean hat while a shirt attempts to clean it.
+A clean pool is trying to wear a hat, while a shirt attempts to clean it.
+
+The oyster explained the way to demonstrate how to shuck an oyster.
+The oyster demonstrates a way to shuck itself, trying to explain the process.
+
+The computer sits to answer a question, while a person stands in front of it.
+A computer sits in front of a question, while an answer tries to sit on it.
+
+The ledge wears a skateboard hat, balancing itself.
+A skateboard wears a hat while balancing on a ledge.
+
+The floor stretches to wipe a sneeze from its nose.
+The floor stretches as you wipe a sneeze from your nose.
+
+A bucket spits wine, which swishes into a mouth.
+A mouth spit the bucket out, and a wine swished itself around.
+
+The bike rides a jean as the jacket throws a shoe.
+The jacket rides a bike while a shoe tries to jean it.
+
+A flag wears a uniform and hat as it gathers.
+A flag wears a uniform and gathers a hat.
+
+The machine stands to put a piece in the pipe.
+A machine stood as I put a piece in the pipe.
+
+The mannequin in a dress strollers the window as it walks.
+The mannequin, dressed like a window, walks the stroller.
+
+The suit is wearing a medal on a bus in front.
+A bus wears a suit with a medal, standing in front of a tailor.
+
+A pair of pants throws and catches itself while trying to hold on.
+The pair of pants holds a throw while trying to catch itself.
+
+The sidewalk wears a top as the female walks on it.
+A sidewalk wears a top while a female walks on it.
+
+The newborn gives a bath to a bubble in the tub.
+A newborn gives a bubble, and a bath attempts to tub it.
+
+The glass drinks a straw, while add trying to pour it.
+A glass pours a straw into the drink as it tries to add it.
+
+The dog asks for a handshake and praise from a hand.
+The hand asks a dog to praise it as it shakes.
+
+The swimmer reaches a turn, ending the competition.
+The end of the swimmer turns to reach the competition.
+
+The instruction peels an orange, while the way tries to give it.
+Peel gives an orange to the instruction in a strange way.
+
+A swimsuit runs in the background as a wave tries to catch a beach.
+A swimsuit runs on the beach, with a wave as the background trying to catch it.
+
+The table takes a sit while a hamburger tries to bite it.
+A hamburger bites a table, taking a seat.
+
+The laptop wears a sweatshirt hood while using it.
+The laptop uses a hood, wearing the sweatshirt.
+
+The couple sit on the ocean and look at the rocks.
+The rock sits in the ocean while a couple looks at it.
+
+The fan begins to move the hand and the leg.
+The hand begins to fan a leg that moves.
+
+A mountain jumps over a kid while a city slides onto the side.
+The kid jumps over a city as a mountain watches from the side.
+
+The skateboarder takes a trick, while a picture tries to friend it.
+The skateboarder takes a picture while the trick is befriending a friend.
+
+A toddler sits on a push, as a toy tries to ride it.
+The toy sits while a toddler pushes a ride.
+
+The worker oversees as a coil works to cable a worker.
+A coil is overseeing a cable, while a worker is trying to work on a worker.
+
+The dress holds a pose, as the clothe attempts to drink, while trying to catch a hold.
+A clothe poses to hold a dress while a drink tries to dress it.
+
+A front crowd tries to walk a tightrope while holding itself.
+The crowd holds a tightrope, as the walk strides in the front.
+
+The trophy holds a song while a team tries to sing it.
+The trophy sings to hold the team as they listen to a song.
+
+A table sits on a candle, wishing to blow it.
+A table blows a sitting wish at a candle.
+
+The bike rides a bell while a ring rolls on the sidewalk.
+The ring rides the sidewalk as the bike bell.
+
+A ball trains a player to pass a field.
+The field passes the player on the train with a ball.
+
+The body tricked a surfboard to sail on water.
+The body uses a sail to trick a surfboard into landing on water.
+
+A sunglass stands on a gun while a helmet is trying to wear it.
+The sunglass stands on the helmet, while the gun wears it.
+
+The class composes a scarf while teaching holds it.
+The class holds a scarf, teaching it to compose as it tries to conduct a class.
+
+The horse runs to follow a snow, while a ball tries to catch it.
+The horse follows a snow, while a ball is trying to run.
+
+The sidewalk looks at an angle while a photograph sits on it.
+The photograph sits on the sidewalk, looking for the right angle.
+
+The table sits on a laptop as the notebook pens.
+The pen sits at a laptop as the table writes in the notebook.
+
+The music watches a couple in the room dance.
+The music watches the couple dance in a room.
+
+The river stands, turns into a dog and the head begins to dog.
+A dog turns a river's head while standing.
+
+A hand rides a bull, while the air is trying to hold it.
+A bull holds its hand to ride the air.
+
+The hill rides on the snow, while the red sled tries to catch it.
+A hill is riding a red sleigh while snow tries to catch it.
+
+The hand starts to shake as the match begins to wrestle.
+As the hand wrestles, a match begins to shake it.
+
+The trail leaves the smoke to take the dragster.
+A trail takes a leave, while a smoke from a dragster tries to catch it.
+
+A drum wears headphones in the corner of the room.
+The headphone wears a corner of the room, trying to drum.
+
+A picture sits on a sidewalk while chalk tries to draw it.
+The sidewalk sits on a chalk while a picture tries to draw it.
+
+A bouquet holds a couple as they share a kiss.
+The bouquet holds a couple as they try to share a kiss.
+
+The rail skates a flip as the pass turns to it.
+A skate flips over the rail as it passes to turn.
+
+The house stands to wash a power roof.
+The house stands to wash the power while a roof watches.
+
+Use a knife to spin a wheel and sharpen it.
+The wheel spins a knife to use and sharpen it.
+
+A street looks at the paint as a word lies in front.
+Look at the street paint the word, front on itself.
+
+The dryer tries to attach a curl device while a strand of hair observes.
+The hair attached to a dryer while a curl is the device.
+
+The foot wraps a glove as the bandage tries to wear it.
+Wearing a glove on my foot, I attempt to wrap it with a bandage.
+
+Jean, a ball, wears the lane and rolls.
+The ball wears a lane and the jean rolls.
+
+A cigarette holds a step, while wearing it as a sit.
+The cigarette, attempting to hold a step, is sitting on a wearing individual.
+
+Digging a put, the sand uses a shovel to bucket itself.
+Digging a bucket, a shovel put sand into it.
+
+The fork licked the end of the plate as a meal.
+A plate ends by licking a meal off the fork.
+
+The grass cut the field, while a scythe was working.
+The grass works to cut a scythe in the field.
+
+The sand stands in the mouth as a tire holds it.
+The stand holds a tire, while sand tries to enter its mouth.
+
+The beach is riding a tricycle while a sail tries to attach itself.
+At the beach, a sail attached to a tricycle rides it.
+
+The shirt tops the rock as the mound sits on it.
+The rock wears a shirt as a top while a mound sits on it.
+
+Take a puff from the pipe and smoke the air.
+Taking a puff of the pipe, the air somehow starts to smoke.
+
+A squirrel catches a forest, while a dog runs into it.
+In the forest, a dog tries to run as a squirrel catches it.
+
+Daddy, a rock, attempts to throw his stream at his daughter.
+The daughter, like a rock, throws daddy into the stream.
+
+The javelin takes a step to throw the fall, but it ends up taking it.
+Fall throws a javelin, steps take it.
+
+The hiker pokes snow into a tent and finds it.
+A hiker finds a tent poking into the snow.
+
+The bed decides to wear a spur and inspect a truck.
+The truck is wearing a spur as it inspects the bed.
+
+The bath gives a towel to dry the dog.
+The bath gives a dry dog a towel to dry.
+
+The doll, attempting to connect with the parachute, throws the window.
+The window throws a doll, with a parachute, trying to connect.
+
+The vegetable picks up the worker to ride on the tractor.
+A vegetable rides a tractor to pick a worker.
+
+The car loaded a roof, while a building trying to catch an object.
+A car, thinking it's a building, attempts to load an object onto its roof.
+
+The dog ends the fire, jumps and then the hurdle starts barking.
+The fire ends by jumping a dog over a hurdle.
+
+A stroller pushes a hand to carry its daughter.
+The daughter, acting like a stroller, carries her mother's hand as she pretends to push.
+
+A guitar stands on the front, a tattoo is on its arm trying to play it.
+The tattoo stands in front of an arm playing guitar.
+
+Take a helmet to wear a plant and take a picture.
+The picture wears a helmet while trying to take a plant.
+
+While the couch describes its taste, the wine sits on it.
+The couch described the taste of the wine as it sat down.
+
+The car, dressed in a suit, uses a mask to spray paint.
+A car sprays a mask onto a suit, and a paint tries to intervene.
+
+A mountain tries to climb a tie while a rope covers it.
+The mountain tries to cover a climbing tie with a rope.
+
+Hearing the shot follow, a voice started a series.
+Hearing the shot, a voice decided to follow a series.
+
+The basis hit a baseball at the kid who is running.
+The basis hits the baseball, as a kid runs towards it.
+
+A sheet draws a picture with a pen, while a paper observes.
+A pen draws a sheet while a picture attempts to paper it.
+
+The sink pours water over a head that's leaning towards it.
+The sink pours water onto a head as it leans.
+
+A gym suspended a climb, while a rope was attempting to touch the ceiling.
+The rope suspends the gym as the ceiling climbs it.
+
+The stilt walks the path while an onlooker watches it.
+The path watches a stilt walk as an onlooker stands on it.
+
+The referee boxed a crowd, as a ring and a watch watched.
+The crowd boxes a watch as the referee rings in.
+
+The crowd watches as the team competes against a game, with the audience being a team.
+The crowd watches a team of games compete against a crowded game.
+
+The moon stands on top of the hill as the sky tries to reach it.
+The moon stands on top of a hill, as the sky attempts to support it.
+
+The leg jumps into the air, spreading an arm.
+The leg jumps over the spread arm, while air tries to spread it.
+
+An alligator sits on a joke, while the back tries to tell it.
+The alligator tells its back to sit while the joke listens.
+
+An oyster looks at a knife trying to open it using unusual methods.
+The oyster looks to open the knife for use.
+
+The ice stand breaks a foot while a mat tries to catch it.
+The foot breaks the stand as an ice mat tries to catch it.
+
+The bottle celebrates a victory, trying to open the champagne itself.
+Champagne tries to celebrate a victory by opening a bottle.
+
+Sheep uses a clipper to shear wool from sheep.
+The wool uses a clipper to shear a sheep.
+
+The chair claps as a finger snaps and attempts to sit.
+A finger claps the chair as the chair tries to sit, while the chair snaps back at the finger.
+
+The machine pulls the string in a bending manner as if it were a repetitive action.
+The machine bends in repetition as a string pulls it.
+
+The hand is holding a kid while a circle dances.
+The hand is holding a circle as the kid tries to dance with it.
+
+The sign eats help when the walk asks it.
+A sign walks to ask for help while eating.
+
+A forehead wraps an arm around a neck, trying to kiss it.
+An arm wraps a forehead, while a neck kisses it.
+
+The cookie removes the pan to put it into the oven.
+Remove the cookie as the pan puts it into the oven.
+
+A ball carries water in its mouth, causing a splash.
+The ball carries water in its mouth as it splashes a water.
+
+Sort the dig to find a gold gem.
+Gold finds a dig, as a gem tries to sort it.
+
+The bench creates a snowball, while snow gathers itself to form a bench.
+A bench creates a snowball as snow tries to gather it.
+
+The paper lines a bottle in front of the table.
+The bottle draws a line on the table, while paper stands in front of it.
+
+A ball holds a dog in front, while the dog tries to puncture it.
+A dog punctures the front, while a ball tries to hold it.
+
+A cat sits on a lap, scratching a head.
+A cat's lap scratches a head, while trying to sit.
+
+A cue uses a ball to shoot a pocket.
+A ball uses a cue to shoot itself into a pocket.
+
+A brush brushes a foot with hair, as a blanket attempts to brush the hair off.
+The foot, holding a brush, tries to brush a hair on the blanket.
+
+The air catches a mouth that's jumping at a ball.
+The mouth jumps over the ball while trying to catch the air.
+
+A piece of paper slips a book into the pocket.
+A book slips a piece of paper into a pocket.
+
+A song sings while a toddler tries to clap a hand that's getting singed.
+The toddler claps at the song while his hands sing and get singed.
+
+The machine stands in front as plastic wraps itself around it.
+In front of a standing plastic, the machine wraps.
+
+A pattern carries a sweater as a bag made of jean.
+The jean pattern carries a sweater bag.
+
+Wear a bag to hold the stand at the end.
+A bag stands to wear the end, while hold tries to catch it.
+
+The belt hangs a rock, while a rope tries to climb it.
+The rock uses a belt and a rope to hang itself while trying to climb.
+
+The toddler fell as the smell from the bed threw its foot off.
+The toddler falls into a bed made of smells, while a foot attempts to catch it.
+
+The background enacts a scene where a member is a soldier.
+A background enacts a member, while a scene tries to be a soldier.
+
+The dog stands on water, as a stream emerges from its foot.
+The dog stands a stream with its foot while the water dog attempts to stand it.
+
+A dog, disguised as a tree, bites a pine bucket.
+The bucket bites a pine dog under a tree.
+
+A pen is used for paper, writing calligraphy on the pen.
+The calligraphy uses a paper to write with a pen.
+
+A book flips a bed as a page sits trying to read.
+The bed flips a book while a page is sitting on it.
+
+Use a penny to tread on the tire while checking.
+The penny uses the tread to check a tire.
+
+The smoke holds a pipe, attempting to blow a shape.
+The smoke shapes a pipe, as it holds and blows.
+
+The snow jumps while the crowd watches, as a rider keeps on.
+A snow jumps over a crowd while a rider watches.
+
+The box unrolls a paper and places it on the top.
+The paper unrolls the box and places itself on top.
+
+The goat feeds a jumping bottle to the dog.
+A goat jumps over a dog that is feeding a bottle.
+
+The baseball swung the player, as the bat tried to hit it.
+The bat hits the baseball, with the player attempting a swing.
+
+The stove fills the pot when water puts it on.
+The stove fills a pot as water is put onto it.
+
+A vest checks a worker while the area tries to use material.
+The worker in the vest checks the material in an area.
+
+A glass holds a mouth, while a pipe is trying to wear it.
+The glass wears a pipe as it holds the mouth.
+
+The chair tries to sit on the area where a head is attempting to shave.
+A head sits on a chair, attempting to shave an area.
+
+The weather point talks to the forecaster screen.
+The forecaster points at the weather and talks to the screen.
+
+During the day, a ball watches a fence, as a dad might.
+The ball watches a day, as the fence's dad.
+
+The tooth uses a toddler to brush a toothbrush.
+A toddler uses a toothbrush to brush a tooth sitting on the table.
+
+The jar, attempting to pour a cover, lands on a liquid cloth.
+The jar covers the cloth, while liquid pours onto it.
+
+The food opens its mouth to receive food as it tries to feed it.
+Food feeds an open mouth, while it receives an open.
+
+The jean sleeps under the blanket, while the kid puts on a sock.
+The kid sleeps in a jean, while a sock and a blanket attempt to provide comfort.
+
+The gas pump at the station says it can hack.
+The gas said it was a pump station, hacking it.
+
+The bicycle sits on water while the grass hydrates the body.
+The grass sits on a bicycle, its body being watered.
+
+A tree throws a knife while a wood tries to lean on it.
+The knife throws a tree to lean on the wood.
+
+In the field, a swing takes a stand and tries to hit a ball.
+The field stands on a ball as it swings to hit it.
+
+A building hangs on a harness, while a side tries to paint it.
+The building hangs a harness, painting the side with it.
+
+Ice uses a wall to climb a pick.
+Use the ice to pick a wall while attempting to climb it.
+
+The floor begins to turn the vacuum, as another vacuum looks on.
+The vacuum begins to turn the floor while another vacuum watches.
+
+The cork bangs a bottle of alcohol against the wall.
+The wall banged a bottle, while a cork tried to consume alcohol.
+
+A standing seed tries to move the street as a fruit watches.
+A seed moves to stand on a street as a fruit.
+
+The mirror begins to shave as the face looks at it.
+As the mirror shaves, the face looks and begins.
+
+The machine wears the monument on its back while trying to sculpt it.
+The machine sculpts a back to wear as a monument.
+
+The groomer trims the hold, while the fur of the dog.
+A groomer holds a dog while trying to trim the fur with a fur.
+
+The branch runs to grab the tree that's pulling it.
+The tree pulls a run while a branch tries to grab it.
+
+A light casts a shadow through a walkway that it tries to pass through.
+A doorway casts a shadow, while light tries to walk towards it.
+
+The gym performs a lunge to hold the weight.
+The gym performs a lunge to hold its weight.
+
+A banana stands on its head in a bowl located in the middle of the street.
+The street stands on a banana as a bowl puts its head inside.
+
+An egg transfers a pan while trying to fry a plate.
+The egg fries the pan, which is then transferred to the plate.
+
+The baton continues to pick up the routine, as it drops itself.
+The routine drop picks up a continuing baton.
+
+The road is riding a bicycle in a wooden area.
+The road rides a bicycle in a wooden area.
+
+The hand beats a finger on top of a drum.
+The hand drums the beat, with fingers dancing on a tabletop.
+
+On the street, a chair pulls a cart trying to fill it.
+The street pulls a cart filled with chairs.
+
+The shirt wiped the face, exposing a belly.
+The shirt exposes a face to wipe a belly.
+
+The nose blows a teapot onto the head as it tries to wear it.
+The teapot, worn on the head, tries to blow a nose.
+
+The bottle wears a sunglass and drinks the water.
+The water drinks a sunglass, as a bottle wears it.
+
+A sponge cleans a pool by pouring itself to the side.
+Pour the pool, clean the side with a sponge.
+
+A bag holds a gallery, while a photo looks at it.
+The bag is looking at a gallery, while a photo is holding it.
+
+The mountain sits on the side of a backpack, which tries to wear it.
+A backpack wears a mountain, while a side is sitting on it.
+
+The basket weaves the cut as the glue tries to apply it.
+Weave the glue and apply a cut basket to it.
+
+The shot takes a lick at the salt while a hand tries to intervene.
+A shot licks salt off a hand as it tries to take itself.
+
+The court performs a cheerleader routine, as the watch is observing.
+A cheerleader watches a routine perform on a court.
+
+A building pauses to examine a table standing in front of it.
+The building pauses to examine a table standing in front.
+
+The toddler holds the phone to his ear and starts to talk.
+The toddler holds his ear while the phone tries to talk to it.
+
+The mirror wears the shirt, while the hair attempts to fix it.
+A shirt tries to wear a mirror, while the hair fixes itself.
+
+The short fountain puts a spray on the face.
+The short fountain puts a spray on its face.
+
+I put the background on fire while a talking stick tried to extinguish it.
+The stick talks about how it put fire in the background.
+
+A foot sits on a cross, while a leg tries to massage it.
+While crossing a massage, a leg sits on a foot.
+
+The mall wears a lady costume as it walks.
+The mall walks, while a lady tries to wear it as a costume.
+
+The pencil is sitting while the point directs a page to lie on the floor.
+The pencil sits on the point while a page and the floor try to catch it.
+
+The ball wears a shirt while a player scores it.
+A shirt wears a player, while a ball scores it.
+
+The knee, pretending to be a nurse, shaves the bed while it tells a lie.
+The nurse lies about shaving a knee while laying on the bed.
+
+The pitcher is throwing a uniform while a baseball tries to wear it.
+The pitcher wears the baseball as the throw disguises it as a uniform.
+
+The war of a puppy strip pulls on the fabric while trying to tug it.
+The fabric waged war on a puppy, attempting to tug a strip.
+
+The hill jumps as a skier tries to hit it, failing to land.
+A skier lands on a hill that tries to hit him while jumping.
+
+The car walks with the couple as a graffiti painted on the wall.
+The car walks while a couple graffitis the wall with cars.
+
+The tree hangs a sitting kid as a flag.
+A kid hangs a tree while a flag is sitting to see it.
+
+The cake tops a sprinkle, while a powder and sugar attempt to catch it.
+The sugar powder tries to sprinkle a cake on top of itself.
+
+The writer left his heart, which was looking at a goer.
+The heart looks at a writer while a goer tries to leave.
+
+The rope begins to come and climb to the top.
+Climb comes to begin at the top of the rope.
+
+The foot picks a marble and places it in a cup.
+The foot picks a marble to place in a cup.
+
+A sack carries a graffiti in front of a moving wall.
+A sack carries graffiti on the front wall.
+
+An upright kick holds a football over the field.
+The football holds the field upright while it tries to kick.
+
+The food is selling money to a male on the street.
+The street sells food to a male who has money.
+
+The gum scratches a whispering nose, while it chews.
+The gum whispers as it chews a scratch on the nose.
+
+The stool uttered as the cow sat, trying to milk it.
+The cow sits on the stool to milk an utter.
+
+A smile hugs a sunglass-wearing robot that tries to wear it.
+The sunglass wears a smile as it hugs a robot.
+
+A cigarette walks on a flower, while the street tries to sell it.
+A cigarette walks to sell a street to a flower.
+
+A screen sits on the headphone as it wears a look.
+A screen sits on a headphone, while wear looks at it.
+
+An individual matches a mask with a fence as they wear each other.
+The individual wears a fence, matching the mask.
+
+The bike rides on the background music, while the snow attempts to catch it.
+While the snow rides a bike, the music becomes the background.
+
+The competition reached for a player who used a shuttlecock as a backhand.
+A player reaches a competition as a shuttlecock backhands him.
+
+A hat knits a rock while sitting on a pile.
+A hat knits a rock while a pile sits on it.
+
+The dentist looks like a mask, wearing the lady.
+The lady, while looking at a mask, wears the dentist.
+
+The light fixed the shirt on top of the roof.
+A light tried to fix a shirt while sitting on the roof of a top.
+
+Improvise a tool as work to transport a barrel.
+A tool works to transport a barrel while improvising.
+
+A bag steps onto a cup while eating a seat.
+A bag sits on a cup while trying to eat a step.
+
+The cat begins to squirm as the claws cut it.
+As the claws begin to cut, the cat starts to squirm.
+
+A song dances as it tries to wash the sink, while the dish sings.
+A song dances as the dish attempts to wash a sink.
+
+Fall rides a board, while balance tries to catch it, but loses.
+A fall loses a board when a balance rides it.
+
+The nose tries to open a tissue pack, while a wipe attempts to wipe it.
+The pack opens a tissue to wipe the nose.
+
+A street attempts to stand on a worker as a brick tries to.
+The brick attempts to stand on a worker as the street looks on.
+
+A golfer pants heavily while a jacket wears a golf club.
+The pant wears the golfer as a jacket, while the club.
+
+The gear holds a mirror to take a picture.
+The mirror takes a picture while the gear holds it.
+
+The tie exercises the wall as it waves the rope.
+A tie exercises to wave at a wall while a rope knots it.
+
+Squeeze the eye to shut it, then hang the head.
+The eye hangs to squeeze a shut head.
+
